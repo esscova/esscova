@@ -1,5 +1,31 @@
-## Hi there 👋
+### Hello there 👋 I'm Well Santos
+#### A Data Scientist and a Full-Stack Developer ####
+ - I'm currently living at Nova Iguaçu-RJ, Brazil
+ - I'm currently working as a Freelancer
+ - Ask me about Pc building, Movies, or anything
+ - I'm currently learning about ML/DL
+ - More coffe!
 
+``` Python
+# technologies and tools i use:
+
+class Me (About):
+    def __init__(self):
+        self.my_tools = {
+            "ProgramingLanguages": ["R", "Python", "Javascript", "Java"],
+            "OtherLanguages": ["HTML", "CSS", "Bash", "Json", "Markdown"],
+            "Database": ["Postgres", "Sqlite", "MySQL", "MongoDB"],
+            "Editors": ["Vscode", "Eclipse", "Sublime", "Jupyter"],
+            "Platforms": ["GNU/Linux", "Windows"],
+            "OtherTools": ["Git", "Docker", "Figma"]
+        }
+```
+### Found me
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 <!--
 **esscova/esscova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
