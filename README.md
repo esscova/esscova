@@ -6,6 +6,8 @@
  - I'm currently learning about ML/DL
  - More coffe!
 
+[![Courses & Certificates](https://img.shields.io/badge/Courses%20%2F%20Certificates-007BFF?style=flat)](https://example.com) **Explore my courses and certificates**
+
 ``` Python
 # technologies and tools i use:
 
@@ -20,7 +22,7 @@ class Me (About):
             "OtherTools": ["Git", "Docker", "Figma"]
         }
 ```
-### Found me
+### 📫 How to reach me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wmoreira.ds@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-moreira-santos/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wellmoreiras)
