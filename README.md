@@ -1,12 +1,14 @@
-### Hello there 👋 I'm Well Santos
+### Hello there 👋
 #### A Data Scientist and a Full-Stack Developer ####
- - I'm currently living at Nova Iguaçu-RJ, Brazil
- - I'm currently working as a Freelancer
- - Ask me about Pc building, Movies, or anything
- - I'm currently learning about ML/DL
- - More coffe!
+ - 🏡 I'm currently living at Nova Iguaçu-RJ, Brazil
+ - 💻 I'm currently working as a Freelancer
+ - 💬 Ask me about Pc building, Movies, or anything
+ - 👨‍🔬 I'm currently learning about ML/DL
+ - ☕ More coffe!
 
-[![Courses & Certificates](https://img.shields.io/badge/Courses%20%2F%20Certificates-007BFF?style=flat)](https://example.com) **Explore my courses and certificates**
+**Explore my courses and certificates**
+
+[![Courses & Certificates](https://img.shields.io/badge/Courses%20%2F%20Certificates-007BFF?style=flat)](https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm?usp=drive_link) 
 
 ``` Python
 # technologies and tools i use:
@@ -27,6 +29,8 @@ class Me (About):
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-moreira-santos/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wellmoreiras)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wellington_moreira_santos)
+
+
 <!--
 **esscova/esscova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
