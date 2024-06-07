@@ -1,9 +1,9 @@
 ### Hello there 👋
 #### A Data Scientist and a Full-Stack Developer ####
- - 🏡 I'm currently living at Nova Iguaçu-RJ, Brazil
+
  - 💻 I'm currently working as a Freelancer
- - 💬 Ask me about Pc building, Movies, or anything
  - 👨‍🔬 I'm currently learning about ML/DL
+ - 💬 Ask me about Pc building, Movies, or anything
  - ☕ More coffe!
 
 **Explore my courses and certificates**
@@ -24,7 +24,6 @@ class Me (About):
             "OtherTools": ["Git", "Docker", "Figma"]
         }
 ```
----
 
 <p align='center'>
  <img width='500' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmI2cG9scXlyajcxeTdjZWt3Mml5a2ZnMjdmczZ1dng3dGk0M3M2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlCTgnpgNGNDkbK/giphy.gif'>
