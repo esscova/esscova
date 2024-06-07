@@ -24,6 +24,15 @@ class Me (About):
             "OtherTools": ["Git", "Docker", "Figma"]
         }
 ```
+---
+
+<p align='center'>
+ <img width='500' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmI2cG9scXlyajcxeTdjZWt3Mml5a2ZnMjdmczZ1dng3dGk0M3M2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlCTgnpgNGNDkbK/giphy.gif'>
+</p>
+
+
+
+
 ### 📫 How to reach me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wmoreira.ds@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-moreira-santos/)
