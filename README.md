@@ -1,4 +1,4 @@
-<img align='right' alt='gif' width='500' height='300' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZkZXM4MXF3bm51amhjeDNuanBrbGRhZnJtYnFwc2JnbDhhdXBhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fs9cN5byWCZri/giphy.gif'/>
+<img align='right' alt='gif' width='450' height='300' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZkZXM4MXF3bm51amhjeDNuanBrbGRhZnJtYnFwc2JnbDhhdXBhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fs9cN5byWCZri/giphy.gif'/>
 
 ### Hello there 👋
 #### A Data Scientist and a Full-Stack Developer ####
