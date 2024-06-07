@@ -13,6 +13,8 @@
 
 [![Courses & Certificates](https://img.shields.io/badge/Courses%20%2F%20Certificates-007BFF?style=flat)](https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm?usp=drive_link) 
 
+<br/>
+<br/>
 
 ``` Python
 # technologies and tools i use:
