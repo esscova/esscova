@@ -8,9 +8,10 @@
  - 💬 Ask me about Pc building, Books, Movies, or anything
  - ☕ More coffe!
 
-**Explore my courses and certificates**
+**🧰 Technical skills**
 
 [![Courses & Certificates](https://img.shields.io/badge/Courses%20%2F%20Certificates-007BFF?style=flat)](https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm?usp=drive_link) 
+[![CV](https://img.shields.io/badge/curriculum_Vitae-FF?style=flat)](/curriculo.md) 
 
 <br/>
 <br/>
