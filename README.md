@@ -1,12 +1,11 @@
-<img align='right' alt='gif' width='450' height='300' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZkZXM4MXF3bm51amhjeDNuanBrbGRhZnJtYnFwc2JnbDhhdXBhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fs9cN5byWCZri/giphy.gif'/>
 
 ### Hello there 👋
 #### A Data Scientist and a Full-Stack Developer ####
 
 
- - 💻 I'm currently working as a Freelancer
+ - 🍔 I'm currently working as a Market vendor
  - 👨‍🔬 I'm currently learning about ML/DL
- - 💬 Ask me about Pc building, Movies, or anything
+ - 💬 Ask me about Pc building, Books, Movies, or anything
  - ☕ More coffe!
 
 **Explore my courses and certificates**
@@ -16,6 +15,19 @@
 <br/>
 <br/>
 
+
+
+**📧 Connect with me**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wmoreira.ds@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-moreira-santos/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wellmoreiras)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moreira.883/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wellington_moreira_santos)
+
+
+
+<!--
 ``` Python
 # technologies and tools i use:
 
@@ -31,17 +43,6 @@ class Me (About):
         }
 ```
 
-**📧 Connect with me**
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wmoreira.ds@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-moreira-santos/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wellmoreiras)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moreira.883/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wellington_moreira_santos)
-
-
-
-<!--
 
 <p align='center'>
  <img width='500' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmI2cG9scXlyajcxeTdjZWt3Mml5a2ZnMjdmczZ1dng3dGk0M3M2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlCTgnpgNGNDkbK/giphy.gif'>
