@@ -1,6 +1,9 @@
 # Meu Portólio de projetos
 ## Data Science
-- [Estatística descritiva](https://github.com/esscova/data-science/blob/main/data%20analytics/notebooks/estatistica-python.ipynb): Sabia que uma simples tabela de frequência pode revelar insights surpreendentes sobre seus dados? Descubra como a análise estatística descritiva, feita com Python e Pandas, pode transformar a maneira como você entende suas informações.
+ **Análises de dados**
+ 
+   - [Estatística descritiva](https://github.com/esscova/data-science/blob/main/data%20analytics/notebooks/estatistica-python.ipynb): Sabia que uma simples tabela de frequência pode revelar insights surpreendentes sobre seus dados? Descubra como a análise estatística descritiva, feita com Python e Pandas, pode transformar a maneira como você entende suas informações.
+   - [Teste de hipótese](https://github.com/esscova/data-science/blob/main/data%20analytics/notebooks/teste_de_hipotese-drogaria.ipynb) : Testes de hipóteses são métodos estatísticos usados para tomar decisões sobre populações baseando-se em dados amostrais, sabendo disso, uma farmácia afirma que a média do tempo de entrega de um medicamento é menor que 38 minutos. Será mesmo? 
 
 ## Engenharia de dados
 - [scrap agenda de dividendos](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap) : Já investi em fundos imobiliários ou ações? Sabe o dia que vai pingar o provento? Esse projeto desenvolvido com Python, BeautifulSoup e Pandas, faz a raspagem automática desses dados, coletando, tratando e persistindo tudo em arquivos CSV. Utilize essa ferramenta e mude sua vida financeira!
