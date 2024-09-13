@@ -1,4 +1,11 @@
+# Meu Portólio de projetos
+## Data Science
+- [Estatística descritiva](https://github.com/esscova/data-science/blob/main/data%20analytics/notebooks/estatistica-python.ipynb): Análise estatística descritiva com `Python` e `Pandas`, que insights uma tabela de frequência pode nos fornecer?
 
+## Engenharia de dados
+- [scrap agenda de dividendos](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap) : Esse projeto com `Python`, `BeautifulSoup`, `Pandas` faz a raspagem de dados sobre a agenda de dividendos, coletando, tratando e persistindo os dados de ações e fundos imobiliários em arquivos `csv`.
+
+<!--
 ### Hello there 👋
 #### A Data Scientist and a Full-Stack Developer ####
 
@@ -28,7 +35,7 @@
 
 
 
-<!--
+
 ``` Python
 # technologies and tools i use:
 
