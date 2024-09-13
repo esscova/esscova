@@ -3,10 +3,12 @@
 - [Estatística descritiva](https://github.com/esscova/data-science/blob/main/data%20analytics/notebooks/estatistica-python.ipynb): Análise estatística descritiva com `Python` e `Pandas`, que insights uma tabela de frequência pode nos fornecer?
 
 ## Engenharia de dados
-- [scrap agenda de dividendos](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap) : Esse projeto com `Python`, `BeautifulSoup`, `Pandas` faz a raspagem de dados sobre a agenda de dividendos, coletando, tratando e persistindo os dados de ações e fundos imobiliários em arquivos `csv`.
+- [scrap agenda de dividendos](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap) : Já investi em fundos imobiliários ou ações? Sabe o dia que vai pingar o provento? Esse projeto desenvolvido com Python, BeautifulSoup e Pandas, faz a raspagem automática desses dados, coletando, tratando e persistindo tudo em arquivos CSV. Utilize essa ferramenta e mude sua vida financeira!
 
 ## Desenvolvimento Web
-- [Conversor cambial](https://github.com/esscova/web/tree/main/fastapi/currency_converter) : Perdido na hora de converter moedas? esta API faz isso para você, construída com `FastAPI`. Ela utiliza a API Alpha Vantage para obter taxas de câmbio em tempo real, tornando suas conversões rápidas e precisas. Basta acessar os endpoints e deixar que a magia aconteça.
+- [Conversor cambial](https://github.com/esscova/web/tree/main/fastapi/currency_converter) : Perdido na hora de converter moedas? esta API faz isso para você, construída com FastAPI. Ela utiliza a API Alpha Vantage para obter taxas de câmbio em tempo real, tornando suas conversões rápidas e precisas. Basta acessar os endpoints e deixar que a magia aconteça.
+
+
 <!--
 ### Hello there 👋
 #### A Data Scientist and a Full-Stack Developer ####
