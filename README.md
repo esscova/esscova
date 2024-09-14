@@ -10,6 +10,7 @@
 
 ## Desenvolvimento Web
 - [Conversor cambial](https://github.com/esscova/web/tree/main/fastapi/currency_converter) : Perdido na hora de converter moedas? esta API faz isso para você, construída com FastAPI. Ela utiliza a API Alpha Vantage para obter taxas de câmbio em tempo real, tornando suas conversões rápidas e precisas. Basta acessar os endpoints e deixar que a magia aconteça.
+- [Gerenciador de cursos](https://github.com/esscova/web/tree/main/fastapi/crud_sqlalchemy_sqlite) : API que permite gerenciar cursos de forma rápida e eficiente. Desenvolvida com as tecnologias do FastAPI, SQLAlchemy (assíncrono) e SQLite, a API oferece funcionalidades completas, como criar, listar, visualizar, atualizar e deletar cursos em um banco de dados.
 
 
 <!--
