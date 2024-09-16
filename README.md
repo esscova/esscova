@@ -9,7 +9,7 @@
  - [Predição de Insuficiência Cardíaca com Aprendizado de Máquina](https://github.com/esscova/data-science/blob/main/classifiers/Heart%20failure%20prediction/README.md) : E o coração? tá bem? ou só lembra dele nas sofrências? Este projeto apresenta um projeto completo de Aprendizado de Máquina para prever a possibilidade de insuficiência cardíaca com base em apenas 11 características de uma base de dados reais. Com um modelo preditivo preciso, é possível detectar e tratar esses casos de forma precoce, salvando vidas.
 
 ## Engenharia de dados
-- [scrap agenda de dividendos](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap) : Já investi em fundos imobiliários ou ações? Sabe o dia que vai pingar o provento? Esse projeto desenvolvido com Python, BeautifulSoup e Pandas, faz a raspagem automática desses dados, coletando, tratando e persistindo tudo em arquivos CSV. Utilize essa ferramenta e mude sua vida financeira!
+- [Scraper agenda de dividendos](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap) : Já investi em fundos imobiliários ou ações? Sabe o dia que vai pingar o provento? Esse projeto desenvolvido com Python, BeautifulSoup e Pandas, faz a raspagem automática desses dados, coletando, tratando e persistindo tudo em arquivos CSV. Utilize essa ferramenta e mude sua vida financeira!
 
 ## Desenvolvimento Web
 **Backend**
