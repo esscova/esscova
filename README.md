@@ -18,8 +18,10 @@
    - [Conversor cambial](https://github.com/esscova/web/tree/main/fastapi/currency_converter) : Perdido na hora de converter moedas? esta API faz isso para você, construída com FastAPI. Ela utiliza a API Alpha Vantage para obter taxas de câmbio em tempo real, tornando suas conversões rápidas e precisas. Basta acessar os endpoints e deixar que a magia aconteça.
 
 **Frontend**
-
 <!--
+<details> <summary>Clique para expandir a lista</summary> <ul> <li>Item 1 da lista suspensa</li> <li>Item 2 da lista suspensa</li> <li>Item 3 da lista suspensa</li> </ul> </details>
+
+
 ### Hello there 👋
 #### A Data Scientist and a Full-Stack Developer ####
 
