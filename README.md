@@ -13,6 +13,9 @@
 - [Scraper agenda de dividendos](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap) : Já investi em fundos imobiliários ou ações? Sabe o dia que vai pingar o provento? Esse projeto desenvolvido com Python, BeautifulSoup e Pandas, faz a raspagem automática desses dados, coletando, tratando e persistindo tudo em arquivos CSV. Utilize essa ferramenta e mude sua vida financeira!
 
 ## Desenvolvimento Web
+**FullStack**
+ - [Gerenciamento de jogadores](https://github.com/esscova/web/tree/main/fullstack/farm) : Querendo montar um time? descubra como FastAPI, MongoDB, React, Docker e outras ferramentas fazem a combinação perfeita para gerenciar sua equipe. 
+
 **Backend**
  - [Gerenciador de artigos e usuarios com autenticação](https://github.com/esscova/web/tree/main/fastapi/crud_usuarios_artigos_jwt) : Este projeto implementa uma API utilizando FastAPI, SQLAlchemy, SQLite assíncrono e Autenticação JWT para gerenciamento de artigos e usuários. O sistema permite operações de CRUD para os modelos de artigo e usuario, com autenticação e segurança integradas.
   - [Gerenciador de cursos](https://github.com/esscova/web/tree/main/fastapi/crud_sqlalchemy_sqlite) : API que permite gerenciar cursos de forma rápida e eficiente. Desenvolvida com as tecnologias do FastAPI, SQLAlchemy (assíncrono) e SQLite, a API oferece funcionalidades completas, como criar, listar, visualizar, atualizar e deletar cursos em um banco de dados.
