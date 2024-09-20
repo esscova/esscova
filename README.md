@@ -1,5 +1,5 @@
 # Meu Portólio de projetos
-## Data Science
+<!--## Data Science
  **Análises de dados**
  
    - [Estatística descritiva](https://github.com/esscova/data-science/blob/main/data%20analytics/notebooks/estatistica-python.ipynb): Sabia que uma simples tabela de frequência pode revelar insights surpreendentes sobre seus dados? Descubra como a análise estatística descritiva, feita com Python e Pandas, pode transformar a maneira como você entende suas informações.
@@ -22,7 +22,7 @@
    - [Conversor cambial](https://github.com/esscova/web/tree/main/fastapi/currency_converter) : Perdido na hora de converter moedas? esta API faz isso para você, construída com FastAPI. Ela utiliza a API Alpha Vantage para obter taxas de câmbio em tempo real, tornando suas conversões rápidas e precisas. Basta acessar os endpoints e deixar que a magia aconteça.
 
 **Frontend**
-<!--
+
 <details> <summary>Clique para expandir a lista</summary> <ul> <li>Item 1 da lista suspensa</li> <li>Item 2 da lista suspensa</li> <li>Item 3 da lista suspensa</li> </ul> </details>
 
 
