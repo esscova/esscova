@@ -9,11 +9,13 @@
 - [Classificador para câncer de mama](https://github.com/esscova/data-science/tree/main/classificacao/Breast%20Cancer) : Você sabia que o câncer de mama é uma das principais causas de morte entre as mulheres em todo o mundo? No entanto, com a detecção precoce e o diagnóstico correto, é possível salvar vidas. Descubra como a Ciência de Dados pode Revolucionar o Diagnóstico do Câncer de Mama.
  <p align='right'><a href='https://github.com/esscova/data-science'> Veja o repositório completo </a></p>
 
+**Engenharia de Dados**
+- [Scraper agenda de dividendos](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap) : Já está investindo em fundos imobiliários ou ações? Sabe o dia que vai pingar o provento? Esse projeto desenvolvido com Python, BeautifulSoup e Pandas, faz a raspagem automática desses dados, coletando, tratando e persistindo tudo em arquivos CSV. Utilize essa ferramenta e mude sua vida financeira!
+
 <!--## Data Science
 **Machine Learning**
 
 ## Engenharia de dados
-- [Scraper agenda de dividendos](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap) : Já investi em fundos imobiliários ou ações? Sabe o dia que vai pingar o provento? Esse projeto desenvolvido com Python, BeautifulSoup e Pandas, faz a raspagem automática desses dados, coletando, tratando e persistindo tudo em arquivos CSV. Utilize essa ferramenta e mude sua vida financeira!
 
 ## Desenvolvimento Web
 **FullStack**
