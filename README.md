@@ -1,9 +1,10 @@
 # Meu Portólio de projetos
-<!--## Data Science
  **Análises de dados**
+   - [Estatística descritiva](https://github.com/esscova/data-analysis/blob/main/notebooks/estatistica-python.ipynb): Sabia que uma simples tabela de frequência pode revelar insights surpreendentes sobre seus dados? Descubra como a análise estatística descritiva, feita com Python e Pandas, pode transformar a maneira como você entende suas informações.
+   - [Teste de hipótese](https://github.com/esscova/data-analysis/blob/main/notebooks/teste_de_hipotese-drogaria.ipynb) : Testes de hipóteses são métodos estatísticos usados para tomar decisões sobre populações baseando-se em dados amostrais, sabendo disso, uma farmácia afirma que a média do tempo de entrega de um medicamento é menor que 38 minutos. Será mesmo?
+     <p align='right'><a href='https://github.com/esscova/data-analysis'> Veja o repositório completo</a></p>
+<!--## Data Science
  
-   - [Estatística descritiva](https://github.com/esscova/data-science/blob/main/data%20analytics/notebooks/estatistica-python.ipynb): Sabia que uma simples tabela de frequência pode revelar insights surpreendentes sobre seus dados? Descubra como a análise estatística descritiva, feita com Python e Pandas, pode transformar a maneira como você entende suas informações.
-   - [Teste de hipótese](https://github.com/esscova/data-science/blob/main/data%20analytics/notebooks/teste_de_hipotese-drogaria.ipynb) : Testes de hipóteses são métodos estatísticos usados para tomar decisões sobre populações baseando-se em dados amostrais, sabendo disso, uma farmácia afirma que a média do tempo de entrega de um medicamento é menor que 38 minutos. Será mesmo? 
 
 **Machine Learning**
  - [Predição de Insuficiência Cardíaca com Aprendizado de Máquina](https://github.com/esscova/data-science/blob/main/classifiers/Heart%20failure%20prediction/README.md) : E o coração? tá bem? ou só lembra dele nas sofrências? Este projeto apresenta um projeto completo de Aprendizado de Máquina para prever a possibilidade de insuficiência cardíaca com base em apenas 11 características de uma base de dados reais. Com um modelo preditivo preciso, é possível detectar e tratar esses casos de forma precoce, salvando vidas.
