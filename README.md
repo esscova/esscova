@@ -1,5 +1,5 @@
 # Meu Portólio de projetos
- **Análises de dados**
+**Análises de dados**
    - [Estatística descritiva](https://github.com/esscova/data-analysis/blob/main/notebooks/estatistica-python.ipynb): Sabia que uma simples tabela de frequência pode revelar insights surpreendentes sobre seus dados? Descubra como a análise estatística descritiva, feita com Python e Pandas, pode transformar a maneira como você entende suas informações.
    - [Teste de hipótese](https://github.com/esscova/data-analysis/blob/main/notebooks/teste_de_hipotese-drogaria.ipynb) : Testes de hipóteses são métodos estatísticos usados para tomar decisões sobre populações baseando-se em dados amostrais, sabendo disso, uma farmácia afirma que a média do tempo de entrega de um medicamento é menor que 38 minutos. Será mesmo?
      <p align='right'><a href='https://github.com/esscova/data-analysis'> Veja o repositório completo</a></p>
@@ -11,6 +11,11 @@
 
 **Engenharia de Dados**
 - [Scraper agenda de dividendos](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap) : Já está investindo em fundos imobiliários ou ações? Sabe o dia que vai pingar o provento? Esse projeto desenvolvido com Python, BeautifulSoup e Pandas, faz a raspagem automática desses dados, coletando, tratando e persistindo tudo em arquivos CSV. Utilize essa ferramenta e mude sua vida financeira!
+<p align='right'><a href='https://github.com/esscova/data-engineering' target=_blank> Veja o repositório completo </a></p>
+
+**Desenvolvimento web**
+- [Gerenciamento de jogadores](https://github.com/esscova/fullstack/tree/main/gerenciador_jogadores) : Bora montar um time? descubra nesta aplicação fullstack como FastAPI, MongoDB, React, Docker e outras ferramentas fazem a combinação perfeita para gerenciar sua equipe. 
+- [API para gerenciar artigos e usuarios com autenticação JWT](https://github.com/esscova/backend/tree/main/fastapi/crud_usuarios_artigos_jwt) : Este projeto implementa uma API utilizando FastAPI, SQLAlchemy, SQLite assíncrono e Autenticação JWT para gerenciamento de artigos e usuários. O sistema permite operações de CRUD para os modelos de artigo e usuario, com autenticação e segurança integradas.
 
 <!--## Data Science
 **Machine Learning**
@@ -19,10 +24,8 @@
 
 ## Desenvolvimento Web
 **FullStack**
- - [Gerenciamento de jogadores](https://github.com/esscova/web/tree/main/fullstack/farm) : Querendo montar um time? descubra como FastAPI, MongoDB, React, Docker e outras ferramentas fazem a combinação perfeita para gerenciar sua equipe. 
 
 **Backend**
- - [Gerenciador de artigos e usuarios com autenticação](https://github.com/esscova/web/tree/main/fastapi/crud_usuarios_artigos_jwt) : Este projeto implementa uma API utilizando FastAPI, SQLAlchemy, SQLite assíncrono e Autenticação JWT para gerenciamento de artigos e usuários. O sistema permite operações de CRUD para os modelos de artigo e usuario, com autenticação e segurança integradas.
   - [Gerenciador de cursos](https://github.com/esscova/web/tree/main/fastapi/crud_sqlalchemy_sqlite) : API que permite gerenciar cursos de forma rápida e eficiente. Desenvolvida com as tecnologias do FastAPI, SQLAlchemy (assíncrono) e SQLite, a API oferece funcionalidades completas, como criar, listar, visualizar, atualizar e deletar cursos em um banco de dados.
    - [Conversor cambial](https://github.com/esscova/web/tree/main/fastapi/currency_converter) : Perdido na hora de converter moedas? esta API faz isso para você, construída com FastAPI. Ela utiliza a API Alpha Vantage para obter taxas de câmbio em tempo real, tornando suas conversões rápidas e precisas. Basta acessar os endpoints e deixar que a magia aconteça.
 
