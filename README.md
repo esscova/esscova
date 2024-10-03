@@ -16,6 +16,8 @@
 **Desenvolvimento web**
 - [Gerenciamento de jogadores](https://github.com/esscova/fullstack/tree/main/gerenciador_jogadores) : Bora montar um time? descubra nesta aplicação fullstack como FastAPI, MongoDB, React, Docker e outras ferramentas fazem a combinação perfeita para gerenciar sua equipe. 
 - [API para gerenciar artigos e usuarios com autenticação JWT](https://github.com/esscova/backend/tree/main/fastapi/crud_usuarios_artigos_jwt) : Este projeto implementa uma API utilizando FastAPI, SQLAlchemy, SQLite assíncrono e Autenticação JWT para gerenciamento de artigos e usuários. O sistema permite operações de CRUD para os modelos de artigo e usuario, com autenticação e segurança integradas.
+- [Aplicação web com FastAPI](https://github.com/esscova/fullstack/tree/main/app_fastapi) : Usar FastAPI com Jinja2 oferece diversas utilidades que melhoram o desenvolvimento de aplicações web, como: integração de templates, organização e flexibilidade.
+
 
 <!--## Data Science
 **Machine Learning**
