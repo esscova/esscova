@@ -5,6 +5,7 @@
      <p align='right'><a href='https://github.com/esscova/data-analysis'> Veja o repositório completo</a></p>
 
 **Ciência de Dados**
+- [Predição de preços de imóveis](https://github.com/esscova/data-science/tree/main/regressao/Boston%20Housing) : Preveja o Valor do Seu Imóvel com Precisão, este projeto utiliza técnicas avançadas de Aprendizado de Máquina para prever com precisão o valor médio dos imóveis com base em características socioeconômicas e estruturais, como o número de cômodos, a proporção de população de baixa renda e a proporção de alunos por professor.
 - [Classificador de insuficência cardíaca](https://github.com/esscova/data-science/tree/main/classificacao/Heart%20failure%20prediction) : Mas e o coração? tá bem? ou só lembra dele nas sofrências? Este repositorio apresenta um projeto completo de Aprendizado de Máquina para prever a possibilidade de insuficiência cardíaca com base em apenas 11 características de uma base de dados reais. Com um modelo preditivo preciso, é possível detectar e tratar esses casos de forma precoce, salvando vidas.
 - [Classificador para câncer de mama](https://github.com/esscova/data-science/tree/main/classificacao/Breast%20Cancer) : Você sabia que o câncer de mama é uma das principais causas de morte entre as mulheres em todo o mundo? No entanto, com a detecção precoce e o diagnóstico correto, é possível salvar vidas. Descubra como a Ciência de Dados pode Revolucionar o Diagnóstico do Câncer de Mama.
  <p align='right'><a href='https://github.com/esscova/data-science'> Veja o repositório completo </a></p>
