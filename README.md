@@ -15,10 +15,15 @@
 <p align='right'><a href='https://github.com/esscova/data-engineering' target='_blank'> Veja o repositório completo </a></p>
 
 **Desenvolvimento web**
+- [Chuck Norris facts](https://github.com/esscova/fullstack/tree/main/chuck-norris-facts) : Aplicação FastAPI que mostra piadas aleatórias do Chuck Norris traduzidas para o português. Utiliza htmx para atualizações dinâmicas da página e Tailwind CSS para o estilo.
+- [Aplicação web com FastAPI](https://github.com/esscova/fullstack/tree/main/app_fastapi) : Usar FastAPI com Jinja2 oferece diversas utilidades que melhoram o desenvolvimento de aplicações web, como: integração de templates, organização e flexibilidade.
 - [Gerenciamento de jogadores](https://github.com/esscova/fullstack/tree/main/gerenciador_jogadores) : Bora montar um time? descubra nesta aplicação fullstack como FastAPI, MongoDB, React, Docker e outras ferramentas fazem a combinação perfeita para gerenciar sua equipe. 
 - [API para gerenciar artigos e usuarios com autenticação JWT](https://github.com/esscova/backend/tree/main/fastapi/crud_usuarios_artigos_jwt) : Este projeto implementa uma API utilizando FastAPI, SQLAlchemy, SQLite assíncrono e Autenticação JWT para gerenciamento de artigos e usuários. O sistema permite operações de CRUD para os modelos de artigo e usuario, com autenticação e segurança integradas.
-- [Aplicação web com FastAPI](https://github.com/esscova/fullstack/tree/main/app_fastapi) : Usar FastAPI com Jinja2 oferece diversas utilidades que melhoram o desenvolvimento de aplicações web, como: integração de templates, organização e flexibilidade.
-
+<p align='right'>
+   <a href='https://github.com/esscova/frontend' target='_blank'>Frontend</a>
+   <a href='https://github.com/esscova/backend' target='_blank'>Backend</a>
+   <a href='https://github.com/esscova/fullstack' target='_blank'>Fullstack</a>
+</p>
 
 <!--## Data Science
 **Machine Learning**
