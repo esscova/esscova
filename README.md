@@ -1,7 +1,9 @@
 # Meu Portólio de projetos
+
 **Análises de dados**
    - [Estatística descritiva](https://github.com/esscova/data-analysis/blob/main/notebooks/estatistica-python.ipynb): Sabia que uma simples tabela de frequência pode revelar insights surpreendentes sobre seus dados? Descubra como a análise estatística descritiva, feita com Python e Pandas, pode transformar a maneira como você entende suas informações.
    - [Teste de hipótese](https://github.com/esscova/data-analysis/blob/main/notebooks/teste_de_hipotese-drogaria.ipynb) : Testes de hipóteses são métodos estatísticos usados para tomar decisões sobre populações baseando-se em dados amostrais, sabendo disso, uma farmácia afirma que a média do tempo de entrega de um medicamento é menor que 38 minutos. Será mesmo?
+   - [Obesidade mundial](https://github.com/esscova/data-analysis/blob/main/notebooks/obesity.ipynb) : Então, vamos analisar a Obsidade em níveis mundias, este notebook também é um exercício para praticar mais sobre análise de dados com Python e Pandas, nele são apresentados dados reais sobre a obesidade, coletados de 1975 até 2016.
      <p align='right'><a href='https://github.com/esscova/data-analysis'> Veja o repositório completo</a></p>
 
 **Ciência de Dados**
@@ -25,6 +27,12 @@
    <a href='https://github.com/esscova/fullstack' target='_blank'>Fullstack</a>
 </p>
 
+## Contato
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wmoreira.ds@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-moreira-santos/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wellmoreiras)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moreira.883/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wellington_moreira_santos)
 <!--## Data Science
 **Machine Learning**
 
