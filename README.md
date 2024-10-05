@@ -17,6 +17,7 @@
 <p align='right'><a href='https://github.com/esscova/data-engineering' target='_blank'> Veja o repositório completo </a></p>
 
 **Desenvolvimento web**
+- [Boston housing prediction](https://github.com/esscova/fullstack/tree/main/boston-housing-prediction-app) : Criei uma aplicação web de previsão de preços de moradias utilizando FastAPI e um modelo de Regressão Linear treinado com o conjunto de dados de Boston Housing. O projeto combina Machine Learning com uma interface dinâmica e responsiva, integrando htmx para melhorar a experiência do usuário, permitindo previsões em tempo real, sem recarregar a página!
 - [Chuck Norris facts](https://github.com/esscova/fullstack/tree/main/chuck-norris-facts) : Aplicação FastAPI que mostra piadas aleatórias do Chuck Norris traduzidas para o português. Utiliza htmx para atualizações dinâmicas da página e Tailwind CSS para o estilo.
 - [Aplicação web com FastAPI](https://github.com/esscova/fullstack/tree/main/app_fastapi) : Usar FastAPI com Jinja2 oferece diversas utilidades que melhoram o desenvolvimento de aplicações web, como: integração de templates, organização e flexibilidade.
 - [Gerenciamento de jogadores](https://github.com/esscova/fullstack/tree/main/gerenciador_jogadores) : Bora montar um time? descubra nesta aplicação fullstack como FastAPI, MongoDB, React, Docker e outras ferramentas fazem a combinação perfeita para gerenciar sua equipe. 
