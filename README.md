@@ -1,22 +1,13 @@
 # Meu Portólio de projetos
 
-**Análises de dados**
-   - [Estatística descritiva](https://github.com/esscova/data-analysis/blob/main/notebooks/estatistica-python.ipynb): Sabia que uma simples tabela de frequência pode revelar insights surpreendentes sobre seus dados? Descubra como a análise estatística descritiva, feita com Python e Pandas, pode transformar a maneira como você entende suas informações.
-   - [Teste de hipótese](https://github.com/esscova/data-analysis/blob/main/notebooks/teste_de_hipotese-drogaria.ipynb) : Testes de hipóteses são métodos estatísticos usados para tomar decisões sobre populações baseando-se em dados amostrais, sabendo disso, uma farmácia afirma que a média do tempo de entrega de um medicamento é menor que 38 minutos. Será mesmo?
-   - [Obesidade mundial](https://github.com/esscova/data-analysis/blob/main/notebooks/obesity.ipynb) : Então, vamos analisar a Obsidade em níveis mundias, este notebook também é um exercício para praticar mais sobre análise de dados com Python e Pandas, nele são apresentados dados reais sobre a obesidade, coletados de 1975 até 2016.
-     <p align='right'><a href='https://github.com/esscova/data-analysis'> Veja o repositório completo</a></p>
-
 **Ciência de Dados**
-- [Segmentação de Clientes](https://github.com/esscova/data-science/tree/main/ml_clustering/mall_customers) : Para otimizar as estratégias de marketing e fortalecer as decisões comerciais, este projeto analisa os hábitos de compra e características demográficas dos clientes de um shopping. O objetivo é criar perfis de clientes com comportamentos semelhantes, permitindo campanhas de marketing personalizadas e ações mais eficazes.
+- [Previsor de custo inicial para abertura de franquia](https://github.com/esscova/data-science/tree/main/ml_regression/franquia) : Com este projeto, você vai ver na prática como o Streamlit pode ser usado para criar uma aplicação interativa de ciência de dados. A aplicação, que usa um modelo de Regressão Linear, prevê o custo inicial de abrir uma franquia, levando em conta a frequência anual de operação.
+- [Segmentação de Clientes de um Shopping](https://github.com/esscova/data-science/tree/main/ml_clustering/mall_customers) : Para otimizar as estratégias de marketing e fortalecer as decisões comerciais, este projeto analisa os hábitos de compra e características demográficas dos clientes de um shopping. O objetivo é criar perfis de clientes com comportamentos semelhantes, permitindo campanhas de marketing personalizadas e ações mais eficazes.
 - [Custos Médicos](https://github.com/esscova/data-science/tree/main/ml_regression/Medical%20Cost) : Este projeto desenvolve um modelo de previsão de custos médicos utilizando técnicas de machine learning supervisionado. Foram utilizados dados de um plano de saúde, incluindo informações demográficas, histórico de doenças e procedimentos realizados. Após a limpeza e o pré-processamento dos dados, foram treinados e avaliados diversos modelos, como Random Forest, XGBoost e LightGBM. A estrutura do repositório, organizada em pastas para dados, modelos, notebooks e relatórios, facilita a reprodução dos resultados e a colaboração entre pesquisadores.
 - [Preços Imobiliários](https://github.com/esscova/data-science/tree/main/ml_regression/Boston%20Housing) : Preveja o Valor do Seu Imóvel com Precisão, este projeto utiliza técnicas avançadas de Aprendizado de Máquina para prever com precisão o valor médio dos imóveis com base em características socioeconômicas e estruturais, como o número de cômodos, a proporção de população de baixa renda e a proporção de alunos por professor.
 - [Classificador de insuficência cardíaca](https://github.com/esscova/data-science/tree/main/ml_classification/Heart%20failure%20prediction) : Mas e o coração? tá bem? ou só lembra dele nas sofrências? Este repositorio apresenta um projeto completo de Aprendizado de Máquina para prever a possibilidade de insuficiência cardíaca com base em apenas 11 características de uma base de dados reais. Com um modelo preditivo preciso, é possível detectar e tratar esses casos de forma precoce, salvando vidas.
 - [Classificador para câncer de mama](https://github.com/esscova/data-science/tree/main/ml_classification/Breast%20Cancer) : Você sabia que o câncer de mama é uma das principais causas de morte entre as mulheres em todo o mundo? No entanto, com a detecção precoce e o diagnóstico correto, é possível salvar vidas. Descubra como a Ciência de Dados pode Revolucionar o Diagnóstico do Câncer de Mama.
  <p align='right'><a href='https://github.com/esscova/data-science'> Veja o repositório completo </a></p>
-
-**Engenharia de Dados**
-- [Scraper agenda de dividendos](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap) : Já está investindo em fundos imobiliários ou ações? Sabe o dia que vai pingar o provento? Esse projeto desenvolvido com Python, BeautifulSoup e Pandas, faz a raspagem automática desses dados, coletando, tratando e persistindo tudo em arquivos CSV. Utilize essa ferramenta e mude sua vida financeira!
-<p align='right'><a href='https://github.com/esscova/data-engineering' target='_blank'> Veja o repositório completo </a></p>
 
 **Desenvolvimento web**
 - [Dashboard com Chart.js](https://github.com/esscova/frontend/tree/main/dashboard-javascript) : Este projeto é um dashboard financeiro que exibe registros de entradas e saídas financeiras através de gráficos dinâmicos e uma tabela interativa. O objetivo é fornecer uma interface intuitiva para visualizar dados financeiros ao longo de meses e quadrimestres, com a capacidade de alternar entre tema claro e tema escuro.
@@ -30,6 +21,17 @@
    <a href='https://github.com/esscova/backend' target='_blank'>Backend</a>
    <a href='https://github.com/esscova/fullstack' target='_blank'>Fullstack</a>
 </p>
+
+**Análises de dados**
+   - [Estatística descritiva](https://github.com/esscova/data-analysis/blob/main/notebooks/estatistica-python.ipynb): Sabia que uma simples tabela de frequência pode revelar insights surpreendentes sobre seus dados? Descubra como a análise estatística descritiva, feita com Python e Pandas, pode transformar a maneira como você entende suas informações.
+   - [Teste de hipótese](https://github.com/esscova/data-analysis/blob/main/notebooks/teste_de_hipotese-drogaria.ipynb) : Testes de hipóteses são métodos estatísticos usados para tomar decisões sobre populações baseando-se em dados amostrais, sabendo disso, uma farmácia afirma que a média do tempo de entrega de um medicamento é menor que 38 minutos. Será mesmo?
+   - [Obesidade mundial](https://github.com/esscova/data-analysis/blob/main/notebooks/obesity.ipynb) : Então, vamos analisar a Obsidade em níveis mundias, este notebook também é um exercício para praticar mais sobre análise de dados com Python e Pandas, nele são apresentados dados reais sobre a obesidade, coletados de 1975 até 2016.
+     <p align='right'><a href='https://github.com/esscova/data-analysis'> Veja o repositório completo</a></p>
+
+**Engenharia de Dados**
+- [Scraper agenda de dividendos](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap) : Já está investindo em fundos imobiliários ou ações? Sabe o dia que vai pingar o provento? Esse projeto desenvolvido com Python, BeautifulSoup e Pandas, faz a raspagem automática desses dados, coletando, tratando e persistindo tudo em arquivos CSV. Utilize essa ferramenta e mude sua vida financeira!
+<p align='right'><a href='https://github.com/esscova/data-engineering' target='_blank'> Veja o repositório completo </a></p>
+
 
 ## Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wmoreira.ds@gmail.com)
