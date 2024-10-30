@@ -1,6 +1,7 @@
 # Meu Portólio de projetos
 
 **Ciência de Dados**
+- [Classificador de qualidade de veículos](https://github.com/esscova/data-science/tree/main/ml_classification/classificador%20de%20veiculos) : Este projeto apresenta uma aplicação de classificação de veículos, desenvolvida com Streamlit e utilizando o modelo de classificação Naive Bayes categórico. O objetivo é prever a categoria de um veículo com base em características fornecidas, explorando técnicas de pré-processamento e avaliação de modelos de machine learning.
 - [Previsor de custo inicial para abertura de franquia](https://github.com/esscova/data-science/tree/main/ml_regression/franquia) : Com este projeto, você vai ver na prática como o Streamlit pode ser usado para criar uma aplicação interativa de ciência de dados. A aplicação, que usa um modelo de Regressão Linear, prevê o custo inicial de abrir uma franquia, levando em conta a frequência anual de operação.
 - [Segmentação de Clientes de um Shopping](https://github.com/esscova/data-science/tree/main/ml_clustering/mall_customers) : Para otimizar as estratégias de marketing e fortalecer as decisões comerciais, este projeto analisa os hábitos de compra e características demográficas dos clientes de um shopping. O objetivo é criar perfis de clientes com comportamentos semelhantes, permitindo campanhas de marketing personalizadas e ações mais eficazes.
 - [Custos Médicos](https://github.com/esscova/data-science/tree/main/ml_regression/Medical%20Cost) : Este projeto desenvolve um modelo de previsão de custos médicos utilizando técnicas de machine learning supervisionado. Foram utilizados dados de um plano de saúde, incluindo informações demográficas, histórico de doenças e procedimentos realizados. Após a limpeza e o pré-processamento dos dados, foram treinados e avaliados diversos modelos, como Random Forest, XGBoost e LightGBM. A estrutura do repositório, organizada em pastas para dados, modelos, notebooks e relatórios, facilita a reprodução dos resultados e a colaboração entre pesquisadores.
@@ -39,83 +40,4 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wellmoreiras)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moreira.883/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wellington_moreira_santos)
-<!--## Data Science
-**Machine Learning**
 
-## Engenharia de dados
-
-## Desenvolvimento Web
-**FullStack**
-
-**Backend**
-  - [Gerenciador de cursos](https://github.com/esscova/web/tree/main/fastapi/crud_sqlalchemy_sqlite) : API que permite gerenciar cursos de forma rápida e eficiente. Desenvolvida com as tecnologias do FastAPI, SQLAlchemy (assíncrono) e SQLite, a API oferece funcionalidades completas, como criar, listar, visualizar, atualizar e deletar cursos em um banco de dados.
-   - [Conversor cambial](https://github.com/esscova/web/tree/main/fastapi/currency_converter) : Perdido na hora de converter moedas? esta API faz isso para você, construída com FastAPI. Ela utiliza a API Alpha Vantage para obter taxas de câmbio em tempo real, tornando suas conversões rápidas e precisas. Basta acessar os endpoints e deixar que a magia aconteça.
-
-**Frontend**
-
-<details> <summary>Clique para expandir a lista</summary> <ul> <li>Item 1 da lista suspensa</li> <li>Item 2 da lista suspensa</li> <li>Item 3 da lista suspensa</li> </ul> </details>
-
-
-### Hello there 👋
-#### A Data Scientist and a Full-Stack Developer ####
-
-
- - 🍔 I'm currently working as a Market vendor
- - 👨‍🔬 I'm currently learning about ML/DL
- - 💬 Ask me about Pc building, Books, Movies, or anything
- - ☕ More coffe!
-
-**🧰 Qualificações & Expertises**
-
-[![Courses & Certificates](https://img.shields.io/badge/Courses%20%2F%20Certificates-007BFF?style=flat)](https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm?usp=drive_link) 
-
-
-<br/>
-<br/>
-
-
-
-**📧 Connect with me**
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wmoreira.ds@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-moreira-santos/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wellmoreiras)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moreira.883/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wellington_moreira_santos)
-
-
-
-
-``` Python
-# technologies and tools i use:
-
-class Me (About):
-    def __init__(self):
-        self.my_tools = {
-            "ProgramingLanguages": ["R", "Python", "Javascript", "Java"],
-            "OtherLanguages": ["HTML", "CSS", "Bash", "Json", "Markdown"],
-            "Database": ["Postgres", "Sqlite", "MySQL", "MongoDB"],
-            "Editors": ["Vscode", "Eclipse", "Sublime", "Jupyter"],
-            "Platforms": ["GNU/Linux", "Windows"],
-            "OtherTools": ["Git", "Docker", "Figma"]
-        }
-```
-
-
-<p align='center'>
- <img width='500' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmI2cG9scXlyajcxeTdjZWt3Mml5a2ZnMjdmczZ1dng3dGk0M3M2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlCTgnpgNGNDkbK/giphy.gif'>
-</p>
-
-**esscova/esscova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
