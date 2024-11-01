@@ -2,6 +2,8 @@
 💻 Fullstack developer and Data Scientist <br/>
 🏡 Brazilian, Based in Nova Iguaçu, RJ.
 
+[Curriculum](./2024-10.pdf)
+
 #### 📚 Lifelong learning
 [certificates and courses](https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm)
 
