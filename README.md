@@ -5,6 +5,34 @@
 #### 📚 Lifelong learning
 [certificates and courses](https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm)
 
+#### 🧰 Languages and tools
+<div display='flex'>
+
+<img src='https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor' width=50/>
+<img src='https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor' width=50/> 
+<img src='https://img.icons8.com/?size=100&id=62904&format=png&color=000000' width=50/>
+<img src='https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000' width=50/>
+<img src='https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000' width=50/>
+<img src='https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000' width=50/>
+<img src='https://img.icons8.com/?size=100&id=13441&format=png&color=000000' width=50/>
+<img src='https://img.icons8.com/?size=100&id=20909&format=png&color=000000' width=50/>
+<img src='https://img.icons8.com/?size=100&id=21278&format=png&color=000000' width=50/>
+<img src='https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000' width=50/>
+<img src='https://img.icons8.com/?size=100&id=13664&format=png&color=000000' width=50/>
+<img src='https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=673ab7' width=50/>
+<img src='https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000' width=50/>
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/Htmx_Logo.png' width=100/>
+<img src='https://icongr.am/devicon/react-original.svg?size=128&color=673ab7' width=50/>
+<img src='https://img.icons8.com/?size=100&id=puL87ypQPxxr&format=png&color=000000' width=50/>
+<img src='https://w.wol.ph/wp-content/uploads/2014/01/jinja2.png' width=50/>
+<img src='https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000' width=50/>
+<img src='https://icon.icepanel.io/Technology/svg/FastAPI.svg' width=50/>
+<img src='https://img.icons8.com/?size=100&id=PZQVBAxaueDJ&format=png&color=000000' width=50/>
+<img src='' width=50/>
+<img src='' width=50/>
+
+</div>
+
 #### 🌎 Find me around the web
 - https://twitter.com/_escova
 - https://www.linkedin.com/in/wellington-moreira-santos/
