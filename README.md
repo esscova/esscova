@@ -5,17 +5,18 @@
 #### 📚 Lifelong learning
 [certificates and courses](https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm)
 
-#### 🧰 Tools, languages and frameworks
+#### ⚙️ Hard skills
 
 
 ##### Tools
 <div>
- <img src='https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor' width=50/>
- <img src='https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor' width=50/> 
- <img src='https://img.icons8.com/?size=100&id=62904&format=png&color=000000' width=50/>
- <img src='https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000' width=50/>
- <img src='https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000' width=50/>
- <img src='https://img.icons8.com/?size=100&id=13664&format=png&color=000000' width=50/>
+    <img src='https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor' width=50/>
+    <img src='https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor' width=50/> 
+    <img src='https://icon.icepanel.io/Technology/svg/Powershell.svg' width=50/>
+    <img src='https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg' width=50/>
+    <img src='https://img.icons8.com/?size=100&id=13664&format=png&color=000000' width=50/>
+    <img src='https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor' width=50/>
+ 
 </div>
 
 ##### Languages
@@ -25,23 +26,40 @@
  <img src='https://img.icons8.com/?size=100&id=20909&format=png&color=000000' width=50/>
  <img src='https://img.icons8.com/?size=100&id=21278&format=png&color=000000' width=50/>
  <img src='https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000' width=50/>
+ <img src='https://www.svgrepo.com/show/331760/sql-database-generic.svg' width=50/>
 </div>
 
 
-##### Frameworks
-
+##### Development
 <div>
- <img src='https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=673ab7' width=50/>
- <img src='https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000' width=50/>
- <img src='https://upload.wikimedia.org/wikipedia/commons/6/61/Htmx_Logo.png' width=100/>
- <img src='https://icongr.am/devicon/react-original.svg?size=128&color=673ab7' width=50/>
- <img src='https://img.icons8.com/?size=100&id=puL87ypQPxxr&format=png&color=000000' width=50/>
- <img src='https://w.wol.ph/wp-content/uploads/2014/01/jinja2.png' width=50/>
- <img src='https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000' width=60/>
- <img src='https://icon.icepanel.io/Technology/svg/FastAPI.svg' width=50/>
- <img src='https://img.icons8.com/?size=100&id=PZQVBAxaueDJ&format=png&color=000000' width=50/>
- <img src='' width=50/>
- <img src='' width=50/>
+    <img src='https://icon.icepanel.io/Technology/svg/Bootstrap.svg' width=50/>
+    <img src='https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000' width=50/>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/6/61/Htmx_Logo.png' width=100/>
+    <img src='https://icongr.am/devicon/react-original.svg?size=128&color=673ab7' width=50/>
+    <img src='https://img.icons8.com/?size=100&id=puL87ypQPxxr&format=png&color=000000' width=50/>
+    <img src='https://w.wol.ph/wp-content/uploads/2014/01/jinja2.png' width=50/>
+    <img src='https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000' width=60/>
+    <img src='https://icon.icepanel.io/Technology/svg/FastAPI.svg' width=50/>
+    <img src='https://img.icons8.com/?size=100&id=PZQVBAxaueDJ&format=png&color=000000' width=50/>
+    <img src='https://icon.icepanel.io/Technology/svg/Streamlit.svg' width=50/>
+</div>
+
+##### Data stack
+<div>
+    <img src='https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000' width=50/>
+    <img src='https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000' width=50/>
+    <img src='https://www.svgrepo.com/show/223056/sheets-sheet.svg' width=50/>
+    <img src='https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000' width=50/>
+    <img src='https://icon.icepanel.io/Technology/svg/SQLAlchemy.svg' width=50/>
+    <img src='https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000' width=50/>
+    <img src='https://icon.icepanel.io/Technology/svg/scikit-learn.svg' width=50/>
+    <img src='https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000' width=50/>
+    <img src='https://img.icons8.com/?size=100&id=38561&format=png&color=000000' width=50/>
+    <img src='https://icon.icepanel.io/Technology/svg/SQLite.svg' width=50/>
+    <img src='https://icon.icepanel.io/Technology/svg/MongoDB.svg' width=50/>
+    <img src='https://icon.icepanel.io/Technology/svg/Matplotlib.svg' width=50/>
+    <img src='https://icon.icepanel.io/Technology/svg/Ploty.svg' width=50/>
+    <img src='https://icon.icepanel.io/Technology/svg/Sequelize.svg' width=50/>
 </div>
 
 #### 🌎 Find me around the web
