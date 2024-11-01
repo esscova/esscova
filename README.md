@@ -74,6 +74,8 @@
 
 
 ## Portfólio
+[Padrões de compra dos consumidores de um supermercado](https://github.com/esscova/data-science/tree/main/association_rules/grocieres)  
+>Este projeto aplica o algoritmo Apriori para analisar padrões de compra em um dataset de transações de um supermercado (Groceries). O objetivo é descobrir quais produtos são frequentemente comprados juntos, fornecendo insights para melhorar estratégias de vendas, otimizar o layout do estabelecimento e personalizar ofertas para os clientes, levando a uma experiência de compra mais eficiente e satisfatória.
 
 [Classificador de qualidade de veículos](https://github.com/esscova/data-science/blob/main/classification/vehicle_classifier) 
 >Este projeto apresenta uma aplicação de classificação de veículos, desenvolvida com Streamlit e utilizando o modelo de classificação Naive Bayes categórico. O objetivo é prever a categoria de um veículo com base em características fornecidas, explorando técnicas de pré-processamento e avaliação de modelos de machine learning.
