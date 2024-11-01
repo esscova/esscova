@@ -74,6 +74,9 @@
 
 
 ## Portfólio
+[Previsão de vendas de leite com séries temporais](https://github.com/esscova/data-science/tree/main/time_series/milk_sales)
+>Este projeto desenvolve uma aplicação de previsão de vendas de leite utilizando Streamlit e o modelo de séries temporais SARIMA. A aplicação permite que os usuários carreguem uma série temporal de dados históricos de vendas e, com base nessa informação, realizem previsões precisas para períodos futuros. Além disso, a aplicação fornece uma visão detalhada da decomposição e da projeção das vendas, permitindo que os usuários tomem decisões informadas sobre suas estratégias de negócios.
+
 [Padrões de compra dos consumidores de um supermercado](https://github.com/esscova/data-science/tree/main/association_rules/grocieres)  
 >Este projeto aplica o algoritmo Apriori para analisar padrões de compra em um dataset de transações de um supermercado (Groceries). O objetivo é descobrir quais produtos são frequentemente comprados juntos, fornecendo insights para melhorar estratégias de vendas, otimizar o layout do estabelecimento e personalizar ofertas para os clientes, levando a uma experiência de compra mais eficiente e satisfatória.
 
