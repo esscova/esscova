@@ -1,3 +1,15 @@
+#### 👋 Hello, I'm Wellington!
+💻 Fullstack developer and Data Scientist <br/>
+🏡 Brazilian, Based in Nova Iguaçu, RJ.
+
+#### 🌎 Find me around the web
+- https://twitter.com/_escova
+- https://www.linkedin.com/in/wellington-moreira-santos/
+- https://www.facebook.com/wellmoreiras/
+- https://www.instagram.com/moreira.883/
+- https://t.me/wellington_moreira_santos/
+
+<!--
 # Meu Portólio de projetos
 
 **Ciência de Dados**
@@ -40,4 +52,4 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wellmoreiras)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moreira.883/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wellington_moreira_santos)
-
+-->
