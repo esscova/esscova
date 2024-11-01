@@ -2,6 +2,9 @@
 💻 Fullstack developer and Data Scientist <br/>
 🏡 Brazilian, Based in Nova Iguaçu, RJ.
 
+#### 📚 Lifelong learning
+[certificates and courses](https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm)
+
 #### 🌎 Find me around the web
 - https://twitter.com/_escova
 - https://www.linkedin.com/in/wellington-moreira-santos/
