@@ -36,6 +36,7 @@
 <div>
     <img src='https://icon.icepanel.io/Technology/svg/Bootstrap.svg' width=50/>
     <img src='https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000' width=50/>
+    <img src='https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000' width=50/>    
     <img src='https://upload.wikimedia.org/wikipedia/commons/6/61/Htmx_Logo.png' width=100/>
     <img src='https://icongr.am/devicon/react-original.svg?size=128&color=673ab7' width=50/>
     <img src='https://img.icons8.com/?size=100&id=puL87ypQPxxr&format=png&color=000000' width=50/>
