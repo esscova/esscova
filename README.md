@@ -23,9 +23,6 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
     <a href='https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm'>Certificates and courses</a>
 </p>
 
-<br/>
-
-###  ⚙️ Skills
 ---
 
 ##### Tools
