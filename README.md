@@ -1,14 +1,32 @@
-#### 👋 Hello, I'm Wellington!
-💻 Fullstack developer and Data Scientist <br/>
-🏡 Brazilian, Based in Nova Iguaçu, RJ.
 
-[Curriculum](./2024-10.pdf)
+## Wellington Moreira
+### 💻 Fullstack developer and Data Scientist - Freelancer <br/>
 
-#### 📚 Lifelong learning
-[certificates and courses](https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm)
+<p align="left">
+  <a href="mailto:wmoreira.ds@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=wmoreira.ds@gmail.com" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/wellington-moreira-santos" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-moreira-santos/" alt="LinkedIn"/></a>
+</p>
 
-#### ⚙️ Hard skills
+Meu nome é Wellington, mas o apelido *escova* veio e ficou, então segue valendo, sou cientista de dados com experiência em desenvolvimento fullstack desde 2023.
 
+Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do restaurante à feira e contando...🤘 ainda no começo lá pela época da conexão discada com meu amd k6-2 500 tive meus primeiros contatos com html, pouco depois já na fase lan house, tive algumas brigas feias com redes locais e sistemas, desviei do caminho mas o gps reconfigurou a rota e cá estamos. 🫡
+
+**Precisando de projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
+
+
+<p align=''>📌
+    <a href='./2024-10.pdf'>Curriculum</a>
+</p>
+<p align=''>📚 
+    <a href='https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm'>Certificates and courses</a>
+</p>
+
+<br/>
+
+###  ⚙️ Skills
+---
 
 ##### Tools
 <div>
@@ -21,6 +39,8 @@
  
 </div>
 
+---
+
 ##### Languages
 <div>
  <img src='https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000' width=50/>
@@ -31,6 +51,7 @@
  <img src='https://www.svgrepo.com/show/331760/sql-database-generic.svg' width=50/>
 </div>
 
+---
 
 ##### Development
 <div>
@@ -46,6 +67,8 @@
     <img src='https://img.icons8.com/?size=100&id=PZQVBAxaueDJ&format=png&color=000000' width=50/>
     <img src='https://icon.icepanel.io/Technology/svg/Streamlit.svg' width=50/>
 </div>
+
+---
 
 ##### Data stack
 <div>
@@ -65,17 +88,19 @@
     <img src='https://icon.icepanel.io/Technology/svg/Sequelize.svg' width=50/>
 </div>
 
-#### 🌎 Find me around the web
-- https://twitter.com/_escova
-- https://www.linkedin.com/in/wellington-moreira-santos/
-- https://www.facebook.com/wellmoreiras/
-- https://www.instagram.com/moreira.883/
-- https://t.me/wellington_moreira_santos/
+---
 
-
+<br/><br/>
+<p align='center'>
+<img
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=esscova&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+   alt="Github Stats"/>
+</p>
+<br/><br/>
 
 ## Portfólio
 [Probabilidade de falhas em equipamentos](https://github.com/esscova/data-science/tree/main/probabilistic/failure_probabilities)
+>
 >Explore a distribuição de falhas em equipamentos com Streamlit através da modelagem de Poisson, neste projeto é possível calcular probabilidades exatas, acumuladas e complementares, fornecendo insights valiosos sobre a confiabilidade do sistema. O projeto integra bibliotecas como NumPy, Matplotlib e SciPy para garantir precisão e eficiência nos cálculos.
 
 [Previsão de vendas de leite com séries temporais](https://github.com/esscova/data-science/tree/main/time_series/milk_sales)
@@ -108,6 +133,17 @@
 </br>
 
 *Cheers!*
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/esscova/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
 
 <!--
  <p align='right'><a href='https://github.com/esscova/data-science'> Veja o repositório completo </a></p>
@@ -141,4 +177,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wellmoreiras)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moreira.883/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wellington_moreira_santos)
+
+  [Curriculum](./2024-10.pdf)
+
 -->
