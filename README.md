@@ -96,6 +96,9 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
 <br/><br/>
 
 ## Portfólio
+- ### Data analysis
+  - [EDA churn com R](https://github.com/esscova/data-analysis/blob/main/notebooks/eda_R.ipynb) 
+
 [Sistema de recomendações](https://github.com/esscova/data-science/tree/main/association_rules/sistema_recomendacoes)
 >Este projeto apresenta uma aplicação para geração de regras de recomendação, desenvolvida com Streamlit e utilizando o algoritmo Apriori para encontrar padrões em transações. O objetivo é permitir ao usuário carregar um conjunto de transações e, a partir disso, gerar e visualizar regras de associação.
 
