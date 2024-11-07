@@ -96,8 +96,10 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
 <br/><br/>
 
 ## Portfólio
+[Sistema de recomendações](https://github.com/esscova/data-science/tree/main/association_rules/sistema_recomendacoes)
+>Este projeto apresenta uma aplicação para geração de regras de recomendação, desenvolvida com Streamlit e utilizando o algoritmo Apriori para encontrar padrões em transações. O objetivo é permitir ao usuário carregar um conjunto de transações e, a partir disso, gerar e visualizar regras de associação.
+
 [Probabilidade de falhas em equipamentos](https://github.com/esscova/data-science/tree/main/probabilistic/failure_probabilities)
->
 >Explore a distribuição de falhas em equipamentos com Streamlit através da modelagem de Poisson, neste projeto é possível calcular probabilidades exatas, acumuladas e complementares, fornecendo insights valiosos sobre a confiabilidade do sistema. O projeto integra bibliotecas como NumPy, Matplotlib e SciPy para garantir precisão e eficiência nos cálculos.
 
 [Previsão de vendas de leite com séries temporais](https://github.com/esscova/data-science/tree/main/time_series/milk_sales)
