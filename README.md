@@ -95,42 +95,24 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
 </p>
 <br/><br/>
 
-## Portfólio
+## PORTFOLIO DE DADOS
 - ### Data analysis
   - [EDA churn com R](https://github.com/esscova/data-analysis/blob/main/notebooks/eda_R.ipynb) 
+ 
+- ### Data science
 
-[Sistema de recomendações](https://github.com/esscova/data-science/tree/main/association_rules/sistema_recomendacoes)
->Este projeto apresenta uma aplicação para geração de regras de recomendação, desenvolvida com Streamlit e utilizando o algoritmo Apriori para encontrar padrões em transações. O objetivo é permitir ao usuário carregar um conjunto de transações e, a partir disso, gerar e visualizar regras de associação.
+    - [Sistema de recomendações com streamlit e APRIORI](https://github.com/esscova/data-science/tree/main/association_rules/sistema_recomendacoes)
+    - [Aplicação para previsão de falhas em equipamentos com Streamlit e modelagem probabilística](https://github.com/esscova/data-science/tree/main/probabilistic/failure_probabilities)
+    - [Aplicação para previsão de vendas com séries temporais utilizando Streamlit e SARIMA temporais](https://github.com/esscova/data-science/tree/main/time_series/milk_sales)
+    - [Modelo para mineração de padrões de compra dos consumidores de um supermercado com APRIORI](https://github.com/esscova/data-science/tree/main/association_rules/grocieres)  
+    - [Aplicação de classificação de veículos com Streamlit e Naive Bayes](https://github.com/esscova/data-science/blob/main/classification/vehicle_classifier) 
+    - [Aplicação para previsão de custo inicial para abertura de franquias com Streamlit e Regressão Linear](https://github.com/esscova/data-science/blob/main/regression/franquia)
+    - [Segmentação de grupos de clientes de um Shopping](https://github.com/esscova/data-science/blob/main/clustering/mall_customers) 
+    - [Previsão de Custos Médicos com Regressão Linear](https://github.com/esscova/data-science/blob/main/regression/medical_cost)
+    - [Previsão de preços de imóveis com Regressão Linear](https://github.com/esscova/data-science/blob/main/regression/boston_housing)
+    - [Classificador binário de insuficência cardíaca](https://github.com/esscova/data-science/blob/main/classification/heart_failure)
+    - [Classificador binário para câncer de mama](https://github.com/esscova/data-science/blob/main/classification/breast_cancer)
 
-[Probabilidade de falhas em equipamentos](https://github.com/esscova/data-science/tree/main/probabilistic/failure_probabilities)
->Explore a distribuição de falhas em equipamentos com Streamlit através da modelagem de Poisson, neste projeto é possível calcular probabilidades exatas, acumuladas e complementares, fornecendo insights valiosos sobre a confiabilidade do sistema. O projeto integra bibliotecas como NumPy, Matplotlib e SciPy para garantir precisão e eficiência nos cálculos.
-
-[Previsão de vendas de leite com séries temporais](https://github.com/esscova/data-science/tree/main/time_series/milk_sales)
->Este projeto desenvolve uma aplicação de previsão de vendas de leite utilizando Streamlit e o modelo de séries temporais SARIMA. A aplicação permite que os usuários carreguem uma série temporal de dados históricos de vendas e, com base nessa informação, realizem previsões precisas para períodos futuros. Além disso, a aplicação fornece uma visão detalhada da decomposição e da projeção das vendas, permitindo que os usuários tomem decisões informadas sobre suas estratégias de negócios.
-
-[Padrões de compra dos consumidores de um supermercado](https://github.com/esscova/data-science/tree/main/association_rules/grocieres)  
->Este projeto aplica o algoritmo Apriori para analisar padrões de compra em um dataset de transações de um supermercado (Groceries). O objetivo é descobrir quais produtos são frequentemente comprados juntos, fornecendo insights para melhorar estratégias de vendas, otimizar o layout do estabelecimento e personalizar ofertas para os clientes, levando a uma experiência de compra mais eficiente e satisfatória.
-
-[Classificador de qualidade de veículos](https://github.com/esscova/data-science/blob/main/classification/vehicle_classifier) 
->Este projeto apresenta uma aplicação de classificação de veículos, desenvolvida com Streamlit e utilizando o modelo de classificação Naive Bayes categórico. O objetivo é prever a categoria de um veículo com base em características fornecidas, explorando técnicas de pré-processamento e avaliação de modelos de machine learning.
-
-[Previsor de custo inicial para abertura de franquia](https://github.com/esscova/data-science/blob/main/regression/franquia)
->Com este projeto, você vai ver na prática como o Streamlit pode ser usado para criar uma aplicação interativa de ciência de dados. A aplicação, que usa um modelo de Regressão Linear, prevê o custo inicial de abrir uma franquia, levando em conta a frequência anual de operação.
-
-[Segmentação de grupos de clientes de um Shopping](https://github.com/esscova/data-science/blob/main/clustering/mall_customers) 
->Para otimizar as estratégias de marketing e fortalecer as decisões comerciais, este projeto analisa os hábitos de compra e características demográficas dos clientes de um shopping. O objetivo é criar perfis de clientes com comportamentos semelhantes, permitindo campanhas de marketing personalizadas e ações mais eficazes.
-
-[Previsão de Custos Médicos](https://github.com/esscova/data-science/blob/main/regression/medical_cost)
->Este projeto desenvolve um modelo de previsão de custos médicos utilizando técnicas de machine learning supervisionado. Foram utilizados dados de um plano de saúde, incluindo informações demográficas, histórico de doenças e procedimentos realizados. Após a limpeza e o pré-processamento dos dados, foram treinados e avaliados diversos modelos, como Random Forest, XGBoost e LightGBM. A estrutura do repositório, organizada em pastas para dados, modelos, notebooks e relatórios, facilita a reprodução dos resultados e a colaboração entre pesquisadores.
-
-[Preditor para preço de imóveis](https://github.com/esscova/data-science/blob/main/regression/boston_housing)
->Preveja o Valor do Seu Imóvel com Precisão, este projeto utiliza técnicas avançadas de Aprendizado de Máquina para prever com precisão o valor médio dos imóveis com base em características socioeconômicas e estruturais, como o número de cômodos, a proporção de população de baixa renda e a proporção de alunos por professor.
-
-[Classificador de insuficência cardíaca](https://github.com/esscova/data-science/blob/main/classification/heart_failure)
->Mas e o coração? tá bem? ou só lembra dele nas sofrências? Este repositorio apresenta um projeto completo de Aprendizado de Máquina para prever a possibilidade de insuficiência cardíaca com base em apenas 11 características de uma base de dados reais. Com um modelo preditivo preciso, é possível detectar e tratar esses casos de forma precoce, salvando vidas.
-
-[Classificador para câncer de mama](https://github.com/esscova/data-science/blob/main/classification/breast_cancer)
->Você sabia que o câncer de mama é uma das principais causas de morte entre as mulheres em todo o mundo? No entanto, com a detecção precoce e o diagnóstico correto, é possível salvar vidas. Descubra como a Ciência de Dados pode Revolucionar o Diagnóstico do Câncer de Mama.
 
 </br>
 
