@@ -97,7 +97,11 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
 
 ## PORTFOLIO DE DADOS
 - ### Data analysis
-  - [EDA churn com R](https://github.com/esscova/data-analysis/blob/main/notebooks/eda_R.ipynb) 
+
+  - [Análise Exploratória de Dados com R - Dataset Churn](https://github.com/esscova/data-analysis/blob/main/notebooks/eda_R.ipynb)
+  - [Análise Estatística Descritiva com Python](https://github.com/esscova/data-analysis/blob/main/notebooks/estatistica-python.ipynb)
+  - [Teste de hipótese com Python - Uma farmácia afirma "o tempo da entrega é menor que 38 minutos" será mesmo?](https://github.com/esscova/data-analysis/blob/main/notebooks/teste_de_hipotese-drogaria.ipynb)
+  - [Análise de dados sobre os níveis de Obesidade mundial de 1975 até 2016](https://github.com/esscova/data-analysis/blob/main/notebooks/obesity.ipynb)
  
 - ### Data science
 
@@ -113,8 +117,8 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
     - [Classificador binário de insuficência cardíaca](https://github.com/esscova/data-science/blob/main/classification/heart_failure)
     - [Classificador binário para câncer de mama](https://github.com/esscova/data-science/blob/main/classification/breast_cancer)
 
-
-</br>
+- ### Data engineer
+    - [Coleta(scraping), transformação e exportação de dados com Python da agenda de dividendos de ações ou FIIs](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap)
 
 *Cheers!*
 <div align="center">
@@ -132,6 +136,7 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
 <!--
  <p align='right'><a href='https://github.com/esscova/data-science'> Veja o repositório completo </a></p>
 **Desenvolvimento web**
+
 - [Dashboard com Chart.js](https://github.com/esscova/frontend/tree/main/dashboard-javascript) : Este projeto é um dashboard financeiro que exibe registros de entradas e saídas financeiras através de gráficos dinâmicos e uma tabela interativa. O objetivo é fornecer uma interface intuitiva para visualizar dados financeiros ao longo de meses e quadrimestres, com a capacidade de alternar entre tema claro e tema escuro.
 - [Boston housing prediction](https://github.com/esscova/fullstack/tree/main/boston-housing-prediction-app) : Criei uma aplicação web de previsão de preços de moradias utilizando FastAPI e um modelo de Regressão Linear treinado com o conjunto de dados de Boston Housing. O projeto combina Machine Learning com uma interface dinâmica e responsiva, integrando htmx para melhorar a experiência do usuário, permitindo previsões em tempo real, sem recarregar a página!
 - [Chuck Norris facts](https://github.com/esscova/fullstack/tree/main/chuck-norris-facts) : Aplicação FastAPI que mostra piadas aleatórias do Chuck Norris traduzidas para o português. Utiliza htmx para atualizações dinâmicas da página e Tailwind CSS para o estilo.
@@ -144,14 +149,13 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
    <a href='https://github.com/esscova/fullstack' target='_blank'>Fullstack</a>
 </p>
 
-**Análises de dados**
-   - [Estatística descritiva](https://github.com/esscova/data-analysis/blob/main/notebooks/estatistica-python.ipynb): Sabia que uma simples tabela de frequência pode revelar insights surpreendentes sobre seus dados? Descubra como a análise estatística descritiva, feita com Python e Pandas, pode transformar a maneira como você entende suas informações.
-   - [Teste de hipótese](https://github.com/esscova/data-analysis/blob/main/notebooks/teste_de_hipotese-drogaria.ipynb) : Testes de hipóteses são métodos estatísticos usados para tomar decisões sobre populações baseando-se em dados amostrais, sabendo disso, uma farmácia afirma que a média do tempo de entrega de um medicamento é menor que 38 minutos. Será mesmo?
-   - [Obesidade mundial](https://github.com/esscova/data-analysis/blob/main/notebooks/obesity.ipynb) : Então, vamos analisar a Obsidade em níveis mundias, este notebook também é um exercício para praticar mais sobre análise de dados com Python e Pandas, nele são apresentados dados reais sobre a obesidade, coletados de 1975 até 2016.
+
+
+
+
+   -  : 
      <p align='right'><a href='https://github.com/esscova/data-analysis'> Veja o repositório completo</a></p>
 
-**Engenharia de Dados**
-- [Scraper agenda de dividendos](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap) : Já está investindo em fundos imobiliários ou ações? Sabe o dia que vai pingar o provento? Esse projeto desenvolvido com Python, BeautifulSoup e Pandas, faz a raspagem automática desses dados, coletando, tratando e persistindo tudo em arquivos CSV. Utilize essa ferramenta e mude sua vida financeira!
 <p align='right'><a href='https://github.com/esscova/data-engineering' target='_blank'> Veja o repositório completo </a></p>
 
 
