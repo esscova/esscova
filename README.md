@@ -1,4 +1,3 @@
-
 ## Wellington Moreira
 ### 💻 Fullstack developer and Data Scientist - Freelancer <br/>
 
@@ -126,8 +125,10 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
 <br/>
 
 ## PORTFOLIO WEB DEVELOPMENT
+- ### FullStack
+    - [Aplicação web que permite o upload de arquivos [FastAPI, Jinja2, HTML, CSS]](https://github.com/esscova/web/tree/main/webApp-hw%5Bfastapi%5D)
 - ### APIs  
-    - [API desenvolvida com express.js que simula operações bancárias](https://github.com/esscova/web/tree/main/api-CRUD-financas%5Bexp%5D)
+    - [API que simula operações bancárias[expressJs]](https://github.com/esscova/web/tree/main/api-CRUD-financas%5Bexp%5D)
 
 - ### Sites
     - [Neon [HTML, SCSS e JS]](https://github.com/esscova/web/blob/main/site-neon%5Bscss%5D)
