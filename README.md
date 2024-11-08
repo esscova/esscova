@@ -102,6 +102,7 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
   - [Análise Exploratória de Dados com R - explorando Clima](https://github.com/esscova/data-analysis/blob/main/notebooks/eda-tempo%5BR%5D.ipynb)
   - [Análise Exploratória de Dados com R - explorando Churn](https://github.com/esscova/data-analysis/blob/main/notebooks/eda_R.ipynb)
   - [Análise Estatística Descritiva com Python](https://github.com/esscova/data-analysis/blob/main/notebooks/estatistica-python.ipynb)
+  - [Analisando dados sobre a Gasolina no Brasil](https://github.com/esscova/data-analysis/blob/main/notebooks/gasolina-brasil.ipynb)
   - [Teste de hipótese com Python - Uma farmácia afirma "o tempo da entrega é menor que 38 minutos" será mesmo?](https://github.com/esscova/data-analysis/blob/main/notebooks/teste_de_hipotese-drogaria.ipynb)
   - [Análise de dados sobre os níveis de Obesidade mundial de 1975 até 2016](https://github.com/esscova/data-analysis/blob/main/notebooks/obesity.ipynb)
  
