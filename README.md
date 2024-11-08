@@ -96,6 +96,7 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
 <br/><br/>
 
 ## PORTFOLIO DE DADOS
+
 - ### Data analysis
 
   - [Análise Exploratória de Dados com R - Dataset Churn](https://github.com/esscova/data-analysis/blob/main/notebooks/eda_R.ipynb)
@@ -120,7 +121,23 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
 - ### Data engineer
     - [Coleta(scraping), transformação e exportação de dados com Python da agenda de dividendos de ações ou FIIs](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap)
 
+<br/>
+
+## PORTFOLIO WEB DEVELOPMENT
+- ### APIs  
+    - [API desenvolvida com express.js que simula operações bancárias](https://github.com/esscova/web/tree/main/api-CRUD-financas%5Bexp%5D)
+
+- ### Sites
+    - [Neon [HTML, SCSS e JS]](https://github.com/esscova/web/blob/main/site-neon%5Bscss%5D)
+    - [iMovi [Bootstrap]](https://github.com/esscova/web/blob/main/site-imov%5Bbootstrap%5D)
+    - [BarberShop [HTML e CSS]](https://github.com/esscova/web/blob/main/site-barbershop)
+
+- ### misc
+    - [Componentes HTML](https://github.com/esscova/web/blob/main/componentes)
+    - [Calculadora com JavaScript](https://github.com/esscova/web/blob/main/app-calculadora%5Bjs%5D)
+
 *Cheers!*
+
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
