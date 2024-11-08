@@ -131,13 +131,14 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
 
 - ### Sites
     - [Neon [HTML, SCSS e JS]](https://github.com/esscova/web/blob/main/site-neon%5Bscss%5D)
-    - [StructBoost](https://github.com/esscova/web/blob/main/site-structboost%5BHTML,CSS%5D)
+    - [StructBoost [HTML,CSS]](https://github.com/esscova/web/blob/main/site-structboost%5BHTML,CSS%5D)
     - [iMovi [Bootstrap]](https://github.com/esscova/web/blob/main/site-imov%5Bbootstrap%5D)
     - [BarberShop [HTML e CSS]](https://github.com/esscova/web/blob/main/site-barbershop)
 
 - ### misc
+    - [Dashboard de gastos pessoais [Chart.js]](https://github.com/esscova/web/tree/main/dashboard%5Bjs%5D)
     - [Componentes HTML](https://github.com/esscova/web/blob/main/componentes)
-    - [Calculadora com JavaScript](https://github.com/esscova/web/blob/main/app-calculadora%5Bjs%5D)
+    - [Calculadora [js]](https://github.com/esscova/web/blob/main/app-calculadora%5Bjs%5D)
 
 *Cheers!*
 
