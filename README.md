@@ -128,6 +128,7 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
 - ### FullStack
     - [Aplicação web que faz previsão de preços de moradias com regressão linear [FastApi, Jinja2, Scikit-learn, HTMX, Tailwind]](https://github.com/esscova/web/tree/main/webApp-housing%5Bfastapi,jinja,htmx,scikit%5D)
     - [Aplicação web que permite o upload de arquivos [FastAPI, Jinja2, HTML, CSS]](https://github.com/esscova/web/tree/main/webApp-hw%5Bfastapi%5D)
+    - [Descubra alguns fatos curisosos do Chuck Norris nesta aplicação web [FastAPI, Jinja2, Translate, HTMX, Tailwinds]](https://github.com/esscova/web/tree/main/webApp-cnorris%5Bfastapi-jinja-htmx-tailwind%5D)
 - ### APIs  
     - [API que simula operações bancárias[express.js]](https://github.com/esscova/web/tree/main/api-CRUD-financas%5Bexp%5D)
 
