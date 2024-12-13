@@ -98,6 +98,7 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
 
 - ### Data analysis
 
+  - [Aplicando distribuições de probabilidades com Python](https://github.com/esscova/data-analysis/blob/main/notebooks/distribuicoes_de_probabilidade_%5Bpython%5D.ipynb)
   - [Análisando e tratando dados Churn com Python](https://github.com/esscova/data-analysis/blob/main/notebooks/eda-churn%5Bpython%5D.ipynb)
   - [Análise Exploratória de Dados com R - explorando Clima](https://github.com/esscova/data-analysis/blob/main/notebooks/eda-tempo%5BR%5D.ipynb)
   - [Análise Exploratória de Dados com R - explorando Churn](https://github.com/esscova/data-analysis/blob/main/notebooks/eda_R.ipynb)
