@@ -14,14 +14,14 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
 
 **Precisando de projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
 
-
+<!--
 <p align=''>📌
     <a href='./2024-10.pdf'>Curriculum</a>
 </p>
+-->
 <p align=''>📚 
     <a href='https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm'>Certificates and courses</a>
 </p>
-
 ---
 
 ##### Tools
