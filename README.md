@@ -122,6 +122,7 @@ Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do rest
     - [Classificador binário para câncer de mama](https://github.com/esscova/data-science/blob/main/classification/breast_cancer)
 
 - ### Data engineer
+    - [Como coletar dados das primeiras notícias do Globo.com e disponibilizar em uma api? fiz com Node.JS](https://github.com/esscova/data-engineering/tree/main/scraper-globo)
     - [Acompanhe o preço de seus ativos financeiros com esta dashboard Python](https://github.com/esscova/stock_screen)
     - [Coleta(scraping), transformação e exportação de dados com Python da agenda de dividendos de ações ou FIIs](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap)
 
