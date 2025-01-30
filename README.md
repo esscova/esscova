@@ -1,200 +1,27 @@
-## Wellington Moreira
-### 💻 Fullstack developer and Data Scientist - Freelancer <br/>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514418/3958/storm_trooper.gif?1643514418" width="30"/> Hey! Nice to see you.</h1>
+<p>Hi, I'm Wellington, Data Scientist from <b>Brasil</b></p>
 
-<p align="left">
-  <a href="mailto:wmoreira.ds@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=wmoreira.ds@gmail.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/wellington-moreira-santos" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-moreira-santos/" alt="LinkedIn"/></a>
+<h3>Things I code with</h3>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-000000?style=flat-square&logo=r&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-000?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VSCode-000000?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-Meu nome é Wellington, mas o apelido *escova* veio e ficou, então segue valendo, sou cientista de dados com experiência em desenvolvimento fullstack desde 2023.
-
-Esse rockeirão aqui vem de um background comercial, 25 anos de estrada, do restaurante à feira e contando...🤘 ainda no começo lá pela época da conexão discada com meu amd k6-2 500 tive meus primeiros contatos com html, pouco depois já na fase lan house, tive algumas brigas feias com redes locais e sistemas, desviei do caminho mas o gps reconfigurou a rota e cá estamos. 🫡
-
-**Precisando de projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
-
-<!--
-<p align=''>📌
-    <a href='./2024-10.pdf'>Curriculum</a>
-</p>
--->
-<p align=''>📚 
-    <a href='https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm'>Certificates and courses</a>
-</p>
----
-
-##### Tools
-<div>
-    <img src='https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor' width=50/>
-    <img src='https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor' width=50/> 
-    <img src='https://icon.icepanel.io/Technology/svg/Powershell.svg' width=50/>
-    <img src='https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg' width=50/>
-    <img src='https://img.icons8.com/?size=100&id=13664&format=png&color=000000' width=50/>
-    <img src='https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor' width=50/>
- 
-</div>
-
----
-
-##### Languages
-<div>
- <img src='https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000' width=50/>
- <img src='https://img.icons8.com/?size=100&id=13441&format=png&color=000000' width=50/>
- <img src='https://img.icons8.com/?size=100&id=20909&format=png&color=000000' width=50/>
- <img src='https://img.icons8.com/?size=100&id=21278&format=png&color=000000' width=50/>
- <img src='https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000' width=50/>
- <img src='https://www.svgrepo.com/show/331760/sql-database-generic.svg' width=50/>
-</div>
-
----
-
-##### Development
-<div>
-    <img src='https://icon.icepanel.io/Technology/svg/Bootstrap.svg' width=50/>
-    <img src='https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000' width=50/>
-    <img src='https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000' width=50/>    
-    <img src='https://upload.wikimedia.org/wikipedia/commons/6/61/Htmx_Logo.png' width=100/>
-    <img src='https://icongr.am/devicon/react-original.svg?size=128&color=673ab7' width=50/>
-    <img src='https://img.icons8.com/?size=100&id=puL87ypQPxxr&format=png&color=000000' width=50/>
-    <img src='https://w.wol.ph/wp-content/uploads/2014/01/jinja2.png' width=50/>
-    <img src='https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000' width=60/>
-    <img src='https://icon.icepanel.io/Technology/svg/FastAPI.svg' width=50/>
-    <img src='https://img.icons8.com/?size=100&id=PZQVBAxaueDJ&format=png&color=000000' width=50/>
-    <img src='https://icon.icepanel.io/Technology/svg/Streamlit.svg' width=50/>
-</div>
-
----
-
-##### Data stack
-<div>
-    <img src='https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000' width=50/>
-    <img src='https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000' width=50/>
-    <img src='https://www.svgrepo.com/show/223056/sheets-sheet.svg' width=50/>
-    <img src='https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000' width=50/>
-    <img src='https://icon.icepanel.io/Technology/svg/SQLAlchemy.svg' width=50/>
-    <img src='https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000' width=50/>
-    <img src='https://icon.icepanel.io/Technology/svg/scikit-learn.svg' width=50/>
-    <img src='https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000' width=50/>
-    <img src='https://img.icons8.com/?size=100&id=38561&format=png&color=000000' width=50/>
-    <img src='https://icon.icepanel.io/Technology/svg/SQLite.svg' width=50/>
-    <img src='https://icon.icepanel.io/Technology/svg/MongoDB.svg' width=50/>
-    <img src='https://icon.icepanel.io/Technology/svg/Matplotlib.svg' width=50/>
-    <img src='https://icon.icepanel.io/Technology/svg/Ploty.svg' width=50/>
-    <img src='https://icon.icepanel.io/Technology/svg/Sequelize.svg' width=50/>
-</div>
-
----
-<!--
-<br/><br/>
-<p align='center'>
-<img
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=esscova&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-   alt="Github Stats"/>
-</p>
--->
-<br/><br/>
-## PORTFOLIO DE DADOS
-
-- ### Data analysis
-
-  - [Aplicando distribuições de probabilidades com Python](https://github.com/esscova/data-analysis/blob/main/notebooks/distribuicoes_de_probabilidade_%5Bpython%5D.ipynb)
-  - [Análisando e tratando dados Churn com Python](https://github.com/esscova/data-analysis/blob/main/notebooks/eda-churn%5Bpython%5D.ipynb)
-  - [Análise Exploratória de Dados com R - explorando Clima](https://github.com/esscova/data-analysis/blob/main/notebooks/eda-tempo%5BR%5D.ipynb)
-  - [Análise Exploratória de Dados com R - explorando Churn](https://github.com/esscova/data-analysis/blob/main/notebooks/eda_R.ipynb)
-  - [Análise Estatística Descritiva com Python](https://github.com/esscova/data-analysis/blob/main/notebooks/estatistica-python.ipynb)
-  - [Analisando dados sobre a Gasolina no Brasil](https://github.com/esscova/data-analysis/blob/main/notebooks/gasolina-brasil.ipynb)
-  - [Teste de hipótese com Python - Uma farmácia afirma "o tempo da entrega é menor que 38 minutos" será mesmo?](https://github.com/esscova/data-analysis/blob/main/notebooks/teste_de_hipotese-drogaria.ipynb)
-  - [Análise de dados sobre os níveis de Obesidade mundial de 1975 até 2016](https://github.com/esscova/data-analysis/blob/main/notebooks/obesity.ipynb)
- 
-- ### Data science
-
-    - [Sistema de recomendações com streamlit e APRIORI](https://github.com/esscova/data-science/tree/main/association_rules/sistema_recomendacoes)
-    - [Aplicação para previsão de falhas em equipamentos com Streamlit e modelagem probabilística](https://github.com/esscova/data-science/tree/main/probabilistic/failure_probabilities)
-    - [Aplicação para previsão de vendas com séries temporais utilizando Streamlit e SARIMA temporais](https://github.com/esscova/data-science/tree/main/time_series/milk_sales)
-    - [Modelo para mineração de padrões de compra dos consumidores de um supermercado com APRIORI](https://github.com/esscova/data-science/tree/main/association_rules/grocieres)  
-    - [Aplicação de classificação de veículos com Streamlit e Naive Bayes](https://github.com/esscova/data-science/blob/main/classification/vehicle_classifier) 
-    - [Aplicação para previsão de custo inicial para abertura de franquias com Streamlit e Regressão Linear](https://github.com/esscova/data-science/blob/main/regression/franquia)
-    - [Segmentação de grupos de clientes de um Shopping](https://github.com/esscova/data-science/blob/main/clustering/mall_customers) 
-    - [Previsão de Custos Médicos com Regressão Linear](https://github.com/esscova/data-science/blob/main/regression/medical_cost)
-    - [Previsão de preços de imóveis com Regressão Linear](https://github.com/esscova/data-science/blob/main/regression/boston_housing)
-    - [Classificador binário de insuficência cardíaca](https://github.com/esscova/data-science/blob/main/classification/heart_failure)
-    - [Classificador binário para câncer de mama](https://github.com/esscova/data-science/blob/main/classification/breast_cancer)
-
-- ### Data engineer
-    - [Como coletar dados das primeiras notícias do Globo.com e disponibilizar em uma api? fiz com Node.JS](https://github.com/esscova/data-engineering/tree/main/scraper-globo)
-    - [Acompanhe o preço de seus ativos financeiros com esta dashboard Python](https://github.com/esscova/stock_screen)
-    - [Coleta(scraping), transformação e exportação de dados com Python da agenda de dividendos de ações ou FIIs](https://github.com/esscova/data-engineering/tree/42fe85e7c3ce4a0d0a1056b04d7756a163597efb/agenda%20dividendos%20scrap)
-
-<br/>
-
-## PORTFOLIO WEB DEVELOPMENT
-- ### FullStack
-    - [Monte seu time! CRUD para gerenciar seus jogadores [Docker, React, FastAPI, MongoDB, Bootstrap]](https://github.com/esscova/web/tree/main/webApp-times%5Bdocker-fastapi-react-mongo-bootstrap%5D)
-    - [Aplicação web que faz previsão de preços de moradias com regressão linear [FastApi, Jinja2, Scikit-learn, HTMX, Tailwind]](https://github.com/esscova/web/tree/main/webApp-housing%5Bfastapi,jinja,htmx,scikit%5D)
-    - [Aplicação web que permite o upload de arquivos [FastAPI, Jinja2, HTML, CSS]](https://github.com/esscova/web/tree/main/webApp-hw%5Bfastapi%5D)
-    - [Descubra alguns fatos curisosos do Chuck Norris nesta aplicação web [FastAPI, Jinja2, Translate, HTMX, Tailwinds]](https://github.com/esscova/web/tree/main/webApp-cnorris%5Bfastapi-jinja-htmx-tailwind%5D)
-- ### APIs  
-    - [API que simula operações bancárias[express.js]](https://github.com/esscova/web/tree/main/api-CRUD-financas%5Bexp%5D)
-
-- ### Sites
-    - [Neon [HTML, SCSS e JS]](https://github.com/esscova/web/blob/main/site-neon%5Bscss%5D)
-    - [StructBoost [HTML,CSS]](https://github.com/esscova/web/blob/main/site-structboost%5BHTML,CSS%5D)
-    - [iMovi [Bootstrap]](https://github.com/esscova/web/blob/main/site-imov%5Bbootstrap%5D)
-    - [BarberShop [HTML e CSS]](https://github.com/esscova/web/blob/main/site-barbershop)
-
-- ### misc
-    - [Dashboard de gastos pessoais [Chart.js]](https://github.com/esscova/web/tree/main/dashboard%5Bjs%5D)
-    - [Componentes HTML](https://github.com/esscova/web/blob/main/componentes)
-    - [Calculadora [js]](https://github.com/esscova/web/blob/main/app-calculadora%5Bjs%5D)
-
-*Cheers!*
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/esscova/count.svg"
-    alt="Número de visitantes no perfil"
-  />
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/esscova" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/wellington-moreira-santos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:wmoreira.ds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<!--   <a href="https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm">
+    <img src="https://img.shields.io/badge/Certificates-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a> -->
 </p>
 
-
-<!--
- <p align='right'><a href='https://github.com/esscova/data-science'> Veja o repositório completo </a></p>
-**Desenvolvimento web**
-
-- [Dashboard com Chart.js](https://github.com/esscova/frontend/tree/main/dashboard-javascript) : Este projeto é um dashboard financeiro que exibe registros de entradas e saídas financeiras através de gráficos dinâmicos e uma tabela interativa. O objetivo é fornecer uma interface intuitiva para visualizar dados financeiros ao longo de meses e quadrimestres, com a capacidade de alternar entre tema claro e tema escuro.
-- [Boston housing prediction](https://github.com/esscova/fullstack/tree/main/boston-housing-prediction-app) : Criei uma aplicação web de previsão de preços de moradias utilizando FastAPI e um modelo de Regressão Linear treinado com o conjunto de dados de Boston Housing. O projeto combina Machine Learning com uma interface dinâmica e responsiva, integrando htmx para melhorar a experiência do usuário, permitindo previsões em tempo real, sem recarregar a página!
-- [Chuck Norris facts](https://github.com/esscova/fullstack/tree/main/chuck-norris-facts) : Aplicação FastAPI que mostra piadas aleatórias do Chuck Norris traduzidas para o português. Utiliza htmx para atualizações dinâmicas da página e Tailwind CSS para o estilo.
-- [Aplicação web com FastAPI](https://github.com/esscova/fullstack/tree/main/app_fastapi) : Usar FastAPI com Jinja2 oferece diversas utilidades que melhoram o desenvolvimento de aplicações web, como: integração de templates, organização e flexibilidade.
-- [Gerenciamento de jogadores](https://github.com/esscova/fullstack/tree/main/gerenciador_jogadores) : Bora montar um time? descubra nesta aplicação fullstack como FastAPI, MongoDB, React, Docker e outras ferramentas fazem a combinação perfeita para gerenciar sua equipe. 
-- [API para gerenciar artigos e usuarios com autenticação JWT](https://github.com/esscova/backend/tree/main/fastapi/crud_usuarios_artigos_jwt) : Este projeto implementa uma API utilizando FastAPI, SQLAlchemy, SQLite assíncrono e Autenticação JWT para gerenciamento de artigos e usuários. O sistema permite operações de CRUD para os modelos de artigo e usuario, com autenticação e segurança integradas.
-<p align='right'>
-   <a href='https://github.com/esscova/frontend' target='_blank'>Frontend</a>
-   <a href='https://github.com/esscova/backend' target='_blank'>Backend</a>
-   <a href='https://github.com/esscova/fullstack' target='_blank'>Fullstack</a>
-</p>
-
-
-
-
-
-   -  : 
-     <p align='right'><a href='https://github.com/esscova/data-analysis'> Veja o repositório completo</a></p>
-
-<p align='right'><a href='https://github.com/esscova/data-engineering' target='_blank'> Veja o repositório completo </a></p>
-
-
-## Contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wmoreira.ds@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-moreira-santos/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wellmoreiras)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moreira.883/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wellington_moreira_santos)
-
-  [Curriculum](./2024-10.pdf)
-
--->
