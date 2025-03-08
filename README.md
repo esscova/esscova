@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514418/3958/storm_trooper.gif?1643514418" width="30"/> Hey! Nice to see you.</h1>
-<p>Hi, I'm Wellington, Data Scientist from <b>Brasil</b></p>
+<p>Hi, I'm Wellington, Data Scientist & Engineer from <b>Brasil</b></p>
+
 
 <h3>Things I code with</h3>
 <p>
@@ -15,13 +16,60 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VSCode-000000?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
+<!--   <a href="https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm">
+    <img src="https://img.shields.io/badge/Certificates-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a> -->
+
+<h3> Updates </h3>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Ranking Socioeconômico dos Distritos de São Paulo com PCA</h3>
+      <p align="center">
+        <a href="https://github.com/esscova/ranking-socioeconomico-sp" target="_blank">
+          <img src="https://img.shields.io/badge/Código-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p>Análise de distritos de São Paulo usando PCA para criar um ranking socioeconômico, com visualizações em mapas interativos. Utilizando Machine Learning, manipulação de dados e geoespacialização com Python, Scikit-learn, Geopandas , Folium e Streamlit.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Dashboard de Vendas</h3>
+      <p align="center">
+        <a href="https://github.com/esscova/dashboard-vendas" target="_blank">
+          <img src="https://img.shields.io/badge/Código-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p>Dashboard interativo de visualização de vendas, desenvolvido com Streamlit, Pandas, e Plotly. Ele permite analisar as vendas de produtos em diferentes regiões, períodos, vendedores e categorias. Utiliza dados fictícios de 2020 a 2023 para fornecer insights sobre receita, quantidade de vendas e performance de vendedores.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Background Remove</h3>
+      <p align="center">
+        <a href="https://github.com/esscova/removedor-de-fundo" target="_blank">
+          <img src="https://img.shields.io/badge/Código-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p>Este é um aplicativo web desenvolvido com Streamlit que permite remover o fundo de imagens utilizando a biblioteca rembg. O aplicativo suporta imagens nos formatos JPG, JPEG e PNG, oferece a opção de baixar a imagem processada sem o fundo e Docker para implantação.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Stock Screen</h3>
+      <p align="center">
+        <a href="https://github.com/esscova/stock_screen" target="_blank">
+          <img src="https://img.shields.io/badge/Código-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p>Este projeto implementa uma dashboard interativa para visualização de gráficos de preços de ações utilizando Streamlit, Plotly e  Yahoo Finance. Ele permite que os usuários consultem informações financeiras e visualizem gráficos de preços históricos de ações em tempo real, com a possibilidade de adicionar indicadores como Médias Móveis Simples (SMA) e Médias Móveis Exponenciais (EMA).</p>
+    </td>
+  </tr>
+</table>
+
+
+
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/esscova" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/wellington-moreira-santos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:wmoreira.ds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<!--   <a href="https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm">
-    <img src="https://img.shields.io/badge/Certificates-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
-  </a> -->
 </p>
-
