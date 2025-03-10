@@ -22,6 +22,7 @@
 ---
 
 <h3> Updates </h3>
+
 <a href="https://github.com/esscova/ML-DL/tree/main/analise%20de%20experimento" target="_blank">Análise de experimento</a>
 <p>Este projeto apresenta um experimento de planejamento de experimentos para otimizar a receita de cupcakes de um cliente. Nosso objetivo é entender como a quantidade de farinha e chocolate afeta o número de cupcakes produzidos (porções). Usando um planejamento fatorial, pode-se analisar os dados com estatística e criar visualizações interativas em Python com: pyDOE2, pandas, seaborn, matplotlib, statsmodels, scipy e numpy.</p>
 
