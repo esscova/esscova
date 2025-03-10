@@ -19,52 +19,23 @@
 <!--   <a href="https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm">
     <img src="https://img.shields.io/badge/Certificates-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a> -->
+---
 
 <h3> Updates </h3>
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Ranking Socioeconômico dos Distritos de São Paulo com PCA</h3>
-      <p align="center">
-        <a href="https://github.com/esscova/ranking-socioeconomico-sp" target="_blank">
-          <img src="https://img.shields.io/badge/Código-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </p>
-      <p>Análise de distritos de São Paulo usando PCA para criar um ranking socioeconômico, com visualizações em mapas interativos. Utilizando Machine Learning, manipulação de dados e geoespacialização com Python, Scikit-learn, Geopandas , Folium e Streamlit.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Dashboard de Vendas</h3>
-      <p align="center">
-        <a href="https://github.com/esscova/dashboard-vendas" target="_blank">
-          <img src="https://img.shields.io/badge/Código-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </p>
-      <p>Dashboard interativo de visualização de vendas, desenvolvido com Streamlit, Pandas, e Plotly. Ele permite analisar as vendas de produtos em diferentes regiões, períodos, vendedores e categorias. Utiliza dados fictícios de 2020 a 2023 para fornecer insights sobre receita, quantidade de vendas e performance de vendedores.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Background Remove</h3>
-      <p align="center">
-        <a href="https://github.com/esscova/removedor-de-fundo" target="_blank">
-          <img src="https://img.shields.io/badge/Código-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </p>
-      <p>Este é um aplicativo web desenvolvido com Streamlit que permite remover o fundo de imagens utilizando a biblioteca rembg. O aplicativo suporta imagens nos formatos JPG, JPEG e PNG, oferece a opção de baixar a imagem processada sem o fundo e Docker para implantação.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Stock Screen</h3>
-      <p align="center">
-        <a href="https://github.com/esscova/stock_screen" target="_blank">
-          <img src="https://img.shields.io/badge/Código-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </p>
-      <p>Este projeto implementa uma dashboard interativa para visualização de gráficos de preços de ações utilizando Streamlit, Plotly e  Yahoo Finance. Ele permite que os usuários consultem informações financeiras e visualizem gráficos de preços históricos de ações em tempo real, com a possibilidade de adicionar indicadores como Médias Móveis Simples (SMA) e Médias Móveis Exponenciais (EMA).</p>
-    </td>
-  </tr>
-</table>
 
+<a href="https://github.com/esscova/ranking-socioeconomico-sp" target="_blank">Ranking Socioeconômico dos Distritos de São Paulo com PCA</a>
+<p>Análise de distritos de São Paulo usando PCA para criar um ranking socioeconômico, com visualizações em mapas interativos. Utilizando Machine Learning, manipulação de dados e geoespacialização com Python, Scikit-learn, Geopandas , Folium e Streamlit.</p>
 
+<a href="https://github.com/esscova/dashboard-vendas" target="_blank">Dashboard de Vendas</a>
+<p>Dashboard interativo de visualização de vendas, desenvolvido com Streamlit, Pandas, e Plotly. Ele permite analisar as vendas de produtos em diferentes regiões, períodos, vendedores e categorias. Utiliza dados fictícios de 2020 a 2023 para fornecer insights sobre receita, quantidade de vendas e performance de vendedores.</p>
+
+<a href="https://github.com/esscova/removedor-de-fundo" target="_blank">Background Remove</a>
+<p>Este é um aplicativo web desenvolvido com Streamlit que permite remover o fundo de imagens utilizando a biblioteca rembg. O aplicativo suporta imagens nos formatos JPG, JPEG e PNG, oferece a opção de baixar a imagem processada sem o fundo e Docker para implantação.</p>
+
+<a href="https://github.com/esscova/stock_screen" target="_blank">Stock Screen</a>
+<p>Este projeto implementa uma dashboard interativa para visualização de gráficos de preços de ações utilizando Streamlit, Plotly e  Yahoo Finance. Ele permite que os usuários consultem informações financeiras e visualizem gráficos de preços históricos de ações em tempo real, com a possibilidade de adicionar indicadores como Médias Móveis Simples (SMA) e Médias Móveis Exponenciais (EMA).</p>
+
+---
 
 
 <h3>Where to find me</h3>
