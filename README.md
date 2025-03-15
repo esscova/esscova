@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514418/3958/storm_trooper.gif?1643514418" width="30"/> Hey! Nice to see you.</h1>
-<p>Hi, I'm Wellington, Data Scientist & Engineer from <b>Brasil</b></p>
+<p>Hi, I'm Wellington, Data Scientist & Engineer</p>
 
 
 <h3>Things I code with</h3>
@@ -22,6 +22,8 @@
 ---
 
 <h3> Updates </h3>
+<a href="https://github.com/esscova/plant-growth-simulator" target="_blank">Plant growth simulator</a>
+<p>Um aplicativo web interativo que simula o crescimento de plantas com base em fatores ambientais, utilizando Planejamento de Experimentos (DOE) e modelagem estatística.</p>
 
 <a href="https://github.com/esscova/ML-DL/tree/main/analise%20de%20experimento" target="_blank">Análise de experimento</a>
 <p>Este projeto apresenta um experimento de planejamento de experimentos para otimizar a receita de cupcakes de um cliente. Nosso objetivo é entender como a quantidade de farinha e chocolate afeta o número de cupcakes produzidos (porções). Usando um planejamento fatorial, pode-se analisar os dados com estatística e criar visualizações interativas em Python com: pyDOE2, pandas, seaborn, matplotlib, statsmodels, scipy e numpy.</p>
@@ -35,8 +37,7 @@
 <a href="https://github.com/esscova/removedor-de-fundo" target="_blank">Background Remove</a>
 <p>Este é um aplicativo web desenvolvido com Streamlit que permite remover o fundo de imagens utilizando a biblioteca rembg. O aplicativo suporta imagens nos formatos JPG, JPEG e PNG, oferece a opção de baixar a imagem processada sem o fundo e Docker para implantação.</p>
 
-<a href="https://github.com/esscova/stock_screen" target="_blank">Stock Screen</a>
-<p>Este projeto implementa uma dashboard interativa para visualização de gráficos de preços de ações utilizando Streamlit, Plotly e  Yahoo Finance. Ele permite que os usuários consultem informações financeiras e visualizem gráficos de preços históricos de ações em tempo real, com a possibilidade de adicionar indicadores como Médias Móveis Simples (SMA) e Médias Móveis Exponenciais (EMA).</p>
+
 
 ---
 
