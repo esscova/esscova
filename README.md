@@ -22,6 +22,11 @@
 ---
 
 <h3> Updates </h3>
+
+<a href="https://github.com/esscova/whatsapp-ai-chatbot" target="_blank">Whatsapp AI chatbot</a>
+<p>Um chatbot inteligente para WhatsApp desenvolvido com Python, que utiliza modelos de inteligência artificial para fornecer respostas automáticas e interações contextuais.</p>
+
+
 <a href="https://github.com/esscova/plant-growth-simulator" target="_blank">Plant growth simulator</a>
 <p>Um aplicativo web interativo que simula o crescimento de plantas com base em fatores ambientais, utilizando Planejamento de Experimentos (DOE) e modelagem estatística.</p>
 
@@ -33,11 +38,6 @@
 
 <a href="https://github.com/esscova/dashboard-vendas" target="_blank">Dashboard de Vendas</a>
 <p>Dashboard interativo de visualização de vendas, desenvolvido com Streamlit, Pandas, e Plotly. Ele permite analisar as vendas de produtos em diferentes regiões, períodos, vendedores e categorias. Utiliza dados fictícios de 2020 a 2023 para fornecer insights sobre receita, quantidade de vendas e performance de vendedores.</p>
-
-<a href="https://github.com/esscova/removedor-de-fundo" target="_blank">Background Remove</a>
-<p>Este é um aplicativo web desenvolvido com Streamlit que permite remover o fundo de imagens utilizando a biblioteca rembg. O aplicativo suporta imagens nos formatos JPG, JPEG e PNG, oferece a opção de baixar a imagem processada sem o fundo e Docker para implantação.</p>
-
-
 
 ---
 
