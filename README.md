@@ -22,6 +22,10 @@
 ---
 
 <h3> Updates </h3>
+<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO-04%20-%20house%20price" target="_blank">Previsão de Preços de Casas</a>
+<p>
+  Desenvolvi um modelo previsor ensemble com os 3 melhores modelos para prever o atributo alvo [preço]. No projeto, analisei diversos modelos de regressão, otimizei seus parâmetros e escolhi os melhores para realizar previsões precisas, baseadas em características como número de quartos, área construída, localização, etc. Os modelos foram otimizados com GridSearchCV, e seu desempenho foi avaliado com Validação Cruzada e teste estatístico.
+</p>
 
 <a href="https://github.com/esscova/simulador-de-emprestimos" target="_blank">Simulador de Empréstimos</a>
 <p>
@@ -36,9 +40,6 @@
 
 <a href="https://github.com/esscova/ML-DL/tree/main/analise%20de%20experimento" target="_blank">Análise de experimento</a>
 <p>Este projeto apresenta um experimento de planejamento de experimentos para otimizar a receita de cupcakes de um cliente. Nosso objetivo é entender como a quantidade de farinha e chocolate afeta o número de cupcakes produzidos (porções). Usando um planejamento fatorial, pode-se analisar os dados com estatística e criar visualizações interativas em Python com: pyDOE2, pandas, seaborn, matplotlib, statsmodels, scipy e numpy.</p>
-
-<a href="https://github.com/esscova/ranking-socioeconomico-sp" target="_blank">Ranking Socioeconômico dos Distritos de São Paulo com PCA</a>
-<p>Análise de distritos de São Paulo usando PCA para criar um ranking socioeconômico, com visualizações em mapas interativos. Utilizando Machine Learning, manipulação de dados e geoespacialização com Python, Scikit-learn, Geopandas , Folium e Streamlit.</p>
 
 ---
 
