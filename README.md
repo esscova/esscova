@@ -23,9 +23,13 @@
 
 <h3> Updates </h3>
 
+<a href="https://github.com/esscova/simulador-de-emprestimos" target="_blank">Simulador de Empréstimos</a>
+<p>
+  Simulador web interativo desenvolvido com Streamlit, que avalia o risco de inadimplência em empréstimos. A ferramenta utiliza um ensemble de modelos de Machine Learning (MLP, SVM, Decision Tree, Random Forest) previamente treinados e otimizados.
+</p>
+
 <a href="https://github.com/esscova/whatsapp-ai-chatbot" target="_blank">Whatsapp AI chatbot</a>
 <p>Um chatbot inteligente para WhatsApp desenvolvido com Python, que utiliza modelos de inteligência artificial para fornecer respostas automáticas e interações contextuais.</p>
-
 
 <a href="https://github.com/esscova/plant-growth-simulator" target="_blank">Plant growth simulator</a>
 <p>Um aplicativo web interativo que simula o crescimento de plantas com base em fatores ambientais, utilizando Planejamento de Experimentos (DOE) e modelagem estatística.</p>
@@ -35,9 +39,6 @@
 
 <a href="https://github.com/esscova/ranking-socioeconomico-sp" target="_blank">Ranking Socioeconômico dos Distritos de São Paulo com PCA</a>
 <p>Análise de distritos de São Paulo usando PCA para criar um ranking socioeconômico, com visualizações em mapas interativos. Utilizando Machine Learning, manipulação de dados e geoespacialização com Python, Scikit-learn, Geopandas , Folium e Streamlit.</p>
-
-<a href="https://github.com/esscova/dashboard-vendas" target="_blank">Dashboard de Vendas</a>
-<p>Dashboard interativo de visualização de vendas, desenvolvido com Streamlit, Pandas, e Plotly. Ele permite analisar as vendas de produtos em diferentes regiões, períodos, vendedores e categorias. Utiliza dados fictícios de 2020 a 2023 para fornecer insights sobre receita, quantidade de vendas e performance de vendedores.</p>
 
 ---
 
