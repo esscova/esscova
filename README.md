@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514418/3958/storm_trooper.gif?1643514418" width="30"/> Hey! Nice to see you.</h1>
 <p>Hi, I'm Wellington, Data Scientist & Engineer</p>
 
-
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white" />
@@ -18,10 +17,15 @@
 
 <!--   <a href="https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm">
     <img src="https://img.shields.io/badge/Certificates-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
-  </a> -->
+  </a> --> 
 ---
 
 <h3> Updates </h3>
+<a href="https://github.com/esscova/MarketDataFusion" target="_blank">Fusão de Dados de Mercado</a>
+<p>
+  Desenvolvi uma pipeline ETL em Python que integra dados de duas fontes distintas — JSON e CSV — para gerar insights unificados em um CSV final. O projeto mostra como transformar, combinar e padronizar dados de diferentes origens com eficiência. Ideal para quem curte arquitetura de dados bem estruturada.
+</p>
+
 <a href="https://github.com/esscova/ML-DL/tree/main/PROJETO-04%20-%20house%20price" target="_blank">Previsão de Preços de Casas</a>
 <p>
   Desenvolvi um modelo previsor ensemble com os 3 melhores modelos para prever o atributo alvo [preço]. No projeto, analisei diversos modelos de regressão, otimizei seus parâmetros e escolhi os melhores para realizar previsões precisas, baseadas em características como número de quartos, área construída, localização, etc. Os modelos foram otimizados com GridSearchCV, e seu desempenho foi avaliado com Validação Cruzada e teste estatístico.
@@ -37,9 +41,6 @@
 
 <a href="https://github.com/esscova/plant-growth-simulator" target="_blank">Plant growth simulator</a>
 <p>Um aplicativo web interativo que simula o crescimento de plantas com base em fatores ambientais, utilizando Planejamento de Experimentos (DOE) e modelagem estatística.</p>
-
-<a href="https://github.com/esscova/ML-DL/tree/main/analise%20de%20experimento" target="_blank">Análise de experimento</a>
-<p>Este projeto apresenta um experimento de planejamento de experimentos para otimizar a receita de cupcakes de um cliente. Nosso objetivo é entender como a quantidade de farinha e chocolate afeta o número de cupcakes produzidos (porções). Usando um planejamento fatorial, pode-se analisar os dados com estatística e criar visualizações interativas em Python com: pyDOE2, pandas, seaborn, matplotlib, statsmodels, scipy e numpy.</p>
 
 ---
 
