@@ -17,12 +17,16 @@
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/esscova" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://github.com/esscova" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/wellington-moreira-santos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:wmoreira.ds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
 <h3>Last updates</h3>
+<p>
+<a href="https://github.com/esscova/esscova" target="_blank">esscova</a> (27/04/2025): Sem descrição
+</p>
+
 <p>
 <a href="https://github.com/esscova/mini-sales-datamart" target="_blank">mini-sales-datamart</a> (26/04/2025): Este projeto demonstra a criação de um Data Mart de Vendas simplificado utilizando Docker, PostgreSQL e SQL. Implementa conceitos essenciais de Engenharia de Dados como containerização via Docker, modelagem dimensional (Star Schema), processo ELT com SQL puro, e consultas analíticas para extrair insights de negócio.
 </p>
@@ -37,10 +41,6 @@
 
 <p>
 <a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_08%20-%20RL%20Taxi%20Q-Learning%20Agent" target="_blank">ML-DL/PROJETO_08</a> (22/04/2025): Taxi Agent com Q-Learning no Ambiente Taxi-v3
-</p>
-
-<p>
-<a href="https://github.com/esscova/estudos/tree/main/logica" target="_blank">estudos/logica</a> (21/04/2025): Lógica de Programação
 </p>
 
 ---
