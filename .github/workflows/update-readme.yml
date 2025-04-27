@@ -2,49 +2,48 @@ name: Update Profile README
 
 on:
   schedule:
-    # Executa a cada 6 horas (ajuste o cron conforme necessário)
-    # Formato: minuto hora dia(mês) mês dia(semana)
-    # *: qualquer valor
-    # */6: a cada 6 unidades (neste caso, horas)
-    - cron: '0 */6 * * *'
-  workflow_dispatch: # Permite executar manualmente pela aba Actions
+    - cron: '0 */6 * * *' # Ajustado para o cron do seu primeiro exemplo, pode usar '0 0 * * *' se preferir
+  workflow_dispatch:
   push:
     branches:
-      - main 
+      - main # Ou master
     paths:
       - '.github/workflows/update_readme.yml'
       - 'update_readme.py'
       - 'requirements.txt'
 
 jobs:
-  build:
-    runs-on: ubuntu-latest # Usa a última versão estável do Ubuntu como ambiente
+  build: # Renomeado para build como no seu primeiro exemplo, pode ser update-readme também
+    runs-on: ubuntu-latest
+    # Adicione esta seção de permissões:
+    permissions:
+      contents: write # Permite que o job faça checkout e push
 
     steps:
-      - name: Checkout Repository # Baixa o código do seu repositório
-        uses: actions/checkout@v4 # Ação oficial para checkout
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Set up Python # Configura o ambiente Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x' # Use Python 3 (versão específica se necessário)
+          python-version: '3.x'
 
-      - name: Install Dependencies # Instala as bibliotecas do requirements.txt
+      - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r requirements.txt # Usando requirements.txt
 
-      - name: Run Update Script # Executa seu script Python
+      - name: Run Update Script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Passa o token como variável de ambiente
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python update_readme.py
 
-      - name: Commit and Push Changes # Faz o commit e push do README.md atualizado
+      - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'chore: Atualiza README com últimas atividades' # Mensagem do commit
-          commit_user_name: 'github-actions[bot]' # Nome do autor do commit
-          commit_user_email: 'github-actions[bot]@users.noreply.github.com' # Email do autor
+          commit_message: 'chore: Atualiza README com últimas atividades'
+          commit_user_name: 'github-actions[bot]'
+          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
           commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
-          file_pattern: 'README.md update_readme.log' # Arquivos a serem commitados (README e log)
-          push_options: '--force' # Opcional: Força o push se necessário (use com cautela)
+          file_pattern: 'README.md update_readme.log'
+          # push_options: '--force' # Removido temporariamente para teste, pode não ser necessário
