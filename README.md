@@ -15,39 +15,32 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VSCode-000000?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<!--   <a href="https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm">
-    <img src="https://img.shields.io/badge/Certificates-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
-  </a> --> 
----
-
-<h3> Updates </h3>
-<a href="https://github.com/esscova/MarketDataFusion" target="_blank">Fusão de Dados de Mercado</a>
-<p>
-  Desenvolvi uma pipeline ETL em Python que integra dados de duas fontes distintas — JSON e CSV — para gerar insights unificados em um CSV final. O projeto mostra como transformar, combinar e padronizar dados de diferentes origens com eficiência. Ideal para quem curte arquitetura de dados bem estruturada.
-</p>
-
-<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO-04%20-%20house%20price" target="_blank">Previsão de Preços de Casas</a>
-<p>
-  Desenvolvi um modelo previsor ensemble com os 3 melhores modelos para prever o atributo alvo [preço]. No projeto, analisei diversos modelos de regressão, otimizei seus parâmetros e escolhi os melhores para realizar previsões precisas, baseadas em características como número de quartos, área construída, localização, etc. Os modelos foram otimizados com GridSearchCV, e seu desempenho foi avaliado com Validação Cruzada e teste estatístico.
-</p>
-
-<a href="https://github.com/esscova/simulador-de-emprestimos" target="_blank">Simulador de Empréstimos</a>
-<p>
-  Simulador web interativo desenvolvido com Streamlit, que avalia o risco de inadimplência em empréstimos. A ferramenta utiliza um ensemble de modelos de Machine Learning (MLP, SVM, Decision Tree, Random Forest) previamente treinados e otimizados.
-</p>
-
-<a href="https://github.com/esscova/whatsapp-ai-chatbot" target="_blank">Whatsapp AI chatbot</a>
-<p>Um chatbot inteligente para WhatsApp desenvolvido com Python, que utiliza modelos de inteligência artificial para fornecer respostas automáticas e interações contextuais.</p>
-
-<a href="https://github.com/esscova/plant-growth-simulator" target="_blank">Plant growth simulator</a>
-<p>Um aplicativo web interativo que simula o crescimento de plantas com base em fatores ambientais, utilizando Planejamento de Experimentos (DOE) e modelagem estatística.</p>
-
----
-
-
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/esscova" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/wellington-moreira-santos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:wmoreira.ds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
+
+<h3>Last updates</h3>
+<p>
+<a href="https://github.com/esscova/mini-sales-datamart" target="_blank">mini-sales-datamart</a> (26/04/2025): Este projeto demonstra a criação de um Data Mart de Vendas simplificado utilizando Docker, PostgreSQL e SQL. Implementa conceitos essenciais de Engenharia de Dados como containerização via Docker, modelagem dimensional (Star Schema), processo ELT com SQL puro, e consultas analíticas para extrair insights de negócio.
+</p>
+
+<p>
+<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_09%20-%20An%C3%A1lise%20de%20Sentimentos%20de%20Reviews" target="_blank">ML-DL/PROJETO_09</a> (25/04/2025): Projeto no monorepo ML-DL
+</p>
+
+<p>
+<a href="https://github.com/esscova/github-language-analysis" target="_blank">github-language-analysis</a> (24/04/2025): Dashboard com trends e insights sobre as linguagens de programação utilizadas pelas big techs.
+</p>
+
+<p>
+<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_08%20-%20RL%20Taxi%20Q-Learning%20Agent" target="_blank">ML-DL/PROJETO_08</a> (22/04/2025): Taxi Agent com Q-Learning no Ambiente Taxi-v3
+</p>
+
+<p>
+<a href="https://github.com/esscova/estudos/tree/main/logica" target="_blank">estudos/logica</a> (21/04/2025): Lógica de Programação
+</p>
+
+---
