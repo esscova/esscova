@@ -24,7 +24,7 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/esscova" target="_blank">esscova</a> (27/04/2025): Sem descrição
+<a href="https://github.com/esscova/esscova" target="_blank">esscova</a> (28/04/2025): Sem descrição
 </p>
 
 <p>
