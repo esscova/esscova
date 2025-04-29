@@ -24,15 +24,15 @@
 
 <h3>Last updates</h3>
 <p>
+<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_09%20-%20An%C3%A1lise%20de%20Sentimentos%20de%20Reviews" target="_blank">ML-DL/PROJETO_09</a> (28/04/2025): Projeto no monorepo ML-DL
+</p>
+
+<p>
 <a href="https://github.com/esscova/esscova" target="_blank">esscova</a> (28/04/2025): Sem descrição
 </p>
 
 <p>
 <a href="https://github.com/esscova/mini-sales-datamart" target="_blank">mini-sales-datamart</a> (26/04/2025): Este projeto demonstra a criação de um Data Mart de Vendas simplificado utilizando Docker, PostgreSQL e SQL. Implementa conceitos essenciais de Engenharia de Dados como containerização via Docker, modelagem dimensional (Star Schema), processo ELT com SQL puro, e consultas analíticas para extrair insights de negócio.
-</p>
-
-<p>
-<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_09%20-%20An%C3%A1lise%20de%20Sentimentos%20de%20Reviews" target="_blank">ML-DL/PROJETO_09</a> (25/04/2025): Projeto no monorepo ML-DL
 </p>
 
 <p>

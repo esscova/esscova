@@ -868,3 +868,177 @@
 2025-04-28 18:34:06,689 - INFO - Total de atualizações coletadas: 5
 2025-04-28 18:34:06,719 - INFO - Conteúdo do README gerado com sucesso
 2025-04-28 18:34:06,719 - INFO - README salvo em README.md
+2025-04-29 01:57:59,954 - INFO - Iniciando atualização do README
+2025-04-29 01:57:59,955 - INFO - Coletando repositórios do usuário esscova
+2025-04-29 01:58:00,778 - INFO - Coletados 43 repositórios na página 1
+2025-04-29 01:58:00,962 - INFO - Nenhuma página adicional de repositórios encontrada
+2025-04-29 01:58:00,962 - INFO - Total de repositórios coletados: 43
+2025-04-29 01:58:00,962 - INFO - Buscando último commit para 8books
+2025-04-29 01:58:01,210 - INFO - Commit encontrado para 8books: 90c3b6074bc5e71b0a4821f45347f2135584ef26
+2025-04-29 01:58:01,211 - INFO - Buscando último commit para agenda-dividendos-scrap
+2025-04-29 01:58:01,530 - INFO - Commit encontrado para agenda-dividendos-scrap: 391452eefc19416a0f1f6d2f7ef58495787a0f93
+2025-04-29 01:58:01,530 - INFO - Buscando último commit para api-currency-converter
+2025-04-29 01:58:01,799 - INFO - Commit encontrado para api-currency-converter: 9b66b8a0d78c093c081bb899e21fa81129fd6e4e
+2025-04-29 01:58:01,799 - INFO - Buscando último commit para api-fastapi-postgresql
+2025-04-29 01:58:02,089 - INFO - Commit encontrado para api-fastapi-postgresql: e8eabaa3c8097d71a2b58113416c44836adbe046
+2025-04-29 01:58:02,090 - INFO - Buscando último commit para api-users-articles
+2025-04-29 01:58:02,343 - INFO - Commit encontrado para api-users-articles: 6708d710771d2d209bdaad3947ac5137637a18e1
+2025-04-29 01:58:02,343 - INFO - Buscando último commit para app-gerenciador-jogadores
+2025-04-29 01:58:02,608 - INFO - Commit encontrado para app-gerenciador-jogadores: 395b19028df06385e55649e88ee529ecb9e841f1
+2025-04-29 01:58:02,608 - INFO - Buscando último commit para app-housing-prediction
+2025-04-29 01:58:02,885 - INFO - Commit encontrado para app-housing-prediction: fbf1d3ec6942e5f66d1e469c7ee1a82c30d47518
+2025-04-29 01:58:02,886 - INFO - Buscando último commit para chatPy
+2025-04-29 01:58:03,147 - INFO - Commit encontrado para chatPy: 842951a429ee467a738245ebf4503362440a9ac9
+2025-04-29 01:58:03,148 - INFO - Buscando último commit para cnorris
+2025-04-29 01:58:03,385 - INFO - Commit encontrado para cnorris: 1df36ca4f11bea5a73e0a57ad550a9487cb2c4e6
+2025-04-29 01:58:03,385 - INFO - Buscando último commit para crud-fastapi-sqlmodel
+2025-04-29 01:58:03,681 - INFO - Commit encontrado para crud-fastapi-sqlmodel: b605f91de52b6e6c34c5bf16bbf63639a5661819
+2025-04-29 01:58:03,681 - INFO - Buscando último commit para crud-sqlalchemy-sqlite
+2025-04-29 01:58:03,924 - INFO - Commit encontrado para crud-sqlalchemy-sqlite: 57631c790f7219e29d3c24e5d7838c61d0f1cd5e
+2025-04-29 01:58:03,924 - INFO - Buscando último commit para dashboard-gastos-pessoais
+2025-04-29 01:58:04,193 - INFO - Commit encontrado para dashboard-gastos-pessoais: 0f7e7358a0e394669478b9b2d66bbeb746248cfa
+2025-04-29 01:58:04,193 - INFO - Buscando último commit para dashboard-vendas
+2025-04-29 01:58:04,468 - INFO - Commit encontrado para dashboard-vendas: d6273bbea9866f6958b5d28bb1fc0de91319fb4b
+2025-04-29 01:58:04,468 - INFO - Buscando último commit para data-analysis
+2025-04-29 01:58:04,703 - INFO - Commit encontrado para data-analysis: 4210e6814a8418f21b110fffcdf3ec1ff4293943
+2025-04-29 01:58:04,703 - INFO - Buscando último commit para data-cleaning-python
+2025-04-29 01:58:04,999 - INFO - Commit encontrado para data-cleaning-python: b178e24e427a5d755a467ca557d041d50323ef23
+2025-04-29 01:58:05,000 - INFO - Buscando último commit para data-cleaning-R
+2025-04-29 01:58:05,244 - INFO - Commit encontrado para data-cleaning-R: aa7fb4fce8882a058bdb08a9c1c18ff2736038e5
+2025-04-29 01:58:05,244 - INFO - Buscando último commit para data-science
+2025-04-29 01:58:05,487 - INFO - Commit encontrado para data-science: 0112cff0e33efeac0a853fae01eb1ec040ae96c0
+2025-04-29 01:58:05,488 - INFO - Buscando último commit para deepFIIs
+2025-04-29 01:58:05,728 - INFO - Commit encontrado para deepFIIs: a737289c537534538c118a4a26bebab34acd77a3
+2025-04-29 01:58:05,728 - INFO - Buscando último commit para esscova
+2025-04-29 01:58:05,953 - INFO - Commit encontrado para esscova: 4db831f513712d3a02a07cb98870c6d217c64177
+2025-04-29 01:58:05,954 - INFO - Buscando último commit para etl_store
+2025-04-29 01:58:06,262 - INFO - Commit encontrado para etl_store: 39dcc811d1440585495bf66c96d230b22be18dd5
+2025-04-29 01:58:06,263 - INFO - Buscando último commit para fin-api
+2025-04-29 01:58:06,540 - INFO - Commit encontrado para fin-api: 5df65b36974e1f7b8236343d6eebbc0fd6596ec6
+2025-04-29 01:58:06,541 - INFO - Buscando último commit para github-language-analysis
+2025-04-29 01:58:06,809 - INFO - Commit encontrado para github-language-analysis: 489ad5006aca678cb9d4ae81050b2d6496eb528c
+2025-04-29 01:58:06,810 - INFO - Buscando último commit para invest.dividendos
+2025-04-29 01:58:07,110 - INFO - Commit encontrado para invest.dividendos: 36371685b79e7928ad1702dd0cc613607234ebc1
+2025-04-29 01:58:07,110 - INFO - Buscando último commit para investfiis
+2025-04-29 01:58:07,378 - INFO - Commit encontrado para investfiis: 64e7fded0b7131b5dfe00fdaddaee8ea780e398d
+2025-04-29 01:58:07,379 - INFO - Buscando último commit para MarketDataFusion
+2025-04-29 01:58:07,634 - INFO - Commit encontrado para MarketDataFusion: ecac5db8438eefd71c9c6f38b10bb20316cf4572
+2025-04-29 01:58:07,634 - INFO - Buscando último commit para meus-funcionarios
+2025-04-29 01:58:07,922 - INFO - Commit encontrado para meus-funcionarios: 6fed7b5971135f3c3d89d94947d8af1ff3911f0e
+2025-04-29 01:58:07,923 - INFO - Buscando último commit para mini-sales-datamart
+2025-04-29 01:58:08,183 - INFO - Commit encontrado para mini-sales-datamart: ae601747795b62ca1f6b6d1ed981e25802909235
+2025-04-29 01:58:08,183 - INFO - Buscando último commit para plant-growth-simulator
+2025-04-29 01:58:08,448 - INFO - Commit encontrado para plant-growth-simulator: 4441d8d37605d9fc9f839aeb6ac99c82929f6a76
+2025-04-29 01:58:08,448 - INFO - Buscando último commit para qlearning-acoes
+2025-04-29 01:58:08,730 - INFO - Commit encontrado para qlearning-acoes: b3a63b1b8f5833a4b850103c4ebd6836235fdae6
+2025-04-29 01:58:08,730 - INFO - Buscando último commit para ranking-socioeconomico-sp
+2025-04-29 01:58:08,983 - INFO - Commit encontrado para ranking-socioeconomico-sp: 335d91a0dae5b5a57f22cb10cc2a2b4cfaf476ff
+2025-04-29 01:58:08,984 - INFO - Buscando último commit para removedor-de-fundo
+2025-04-29 01:58:09,227 - INFO - Commit encontrado para removedor-de-fundo: 3ef828827b695344f22089d5ea7cce3ccef93f7a
+2025-04-29 01:58:09,227 - INFO - Buscando último commit para scraper-globo
+2025-04-29 01:58:09,478 - INFO - Commit encontrado para scraper-globo: 3a15915e2c65cc7c4aa0c829b0a48d27d8f6ce6e
+2025-04-29 01:58:09,478 - INFO - Buscando último commit para scraper-pda
+2025-04-29 01:58:09,736 - INFO - Commit encontrado para scraper-pda: 9c81fed6a9bab166a4b48cb4e9b94490b87eebdd
+2025-04-29 01:58:09,736 - INFO - Buscando último commit para simulador-de-emprestimos
+2025-04-29 01:58:10,018 - INFO - Commit encontrado para simulador-de-emprestimos: a81c10fab770474f1550f9af6f275fdb80162318
+2025-04-29 01:58:10,019 - INFO - Buscando último commit para site-barbershop
+2025-04-29 01:58:10,290 - INFO - Commit encontrado para site-barbershop: 06e41e986d8375ac06a593a3a1df37b35670cc50
+2025-04-29 01:58:10,291 - INFO - Buscando último commit para site-imovi
+2025-04-29 01:58:10,565 - INFO - Commit encontrado para site-imovi: a3e89a5cd8494909bd81804212207da4bbce7007
+2025-04-29 01:58:10,565 - INFO - Buscando último commit para site-neon
+2025-04-29 01:58:10,807 - INFO - Commit encontrado para site-neon: 024964dd8e418d6c2b8490cdbaba27a5c9663c8d
+2025-04-29 01:58:10,807 - INFO - Buscando último commit para site-structboost
+2025-04-29 01:58:11,038 - INFO - Commit encontrado para site-structboost: e4cf5e80c4f44b57626d24a8f20af0eb9d4a7f17
+2025-04-29 01:58:11,038 - INFO - Buscando último commit para stock_screen
+2025-04-29 01:58:11,339 - INFO - Commit encontrado para stock_screen: 41cfdaef8e7549968a2427ce78f8eed08493c209
+2025-04-29 01:58:11,339 - INFO - Buscando último commit para svm-R
+2025-04-29 01:58:11,615 - INFO - Commit encontrado para svm-R: db9c48b481cc7f10093a9f894389c0d580917156
+2025-04-29 01:58:11,615 - INFO - Buscando último commit para whatsapp-ai-chatbot
+2025-04-29 01:58:11,887 - INFO - Commit encontrado para whatsapp-ai-chatbot: c099bf26eb88916a4d942a5e738553bad5faa63a
+2025-04-29 01:58:11,887 - INFO - Coletando projetos do monorepo ML-DL
+2025-04-29 01:58:12,117 - INFO - Projetos encontrados no monorepo ML-DL: ['PROJETO_01 - Customer Income', 'PROJETO_02 - Credit Card Customers Clustering', 'PROJETO_03 - Loan Default Prediction', 'PROJETO_04 - Analise de Experimento', 'PROJETO_05 - House Sales ', 'PROJETO_06 - Credit Card Fraud Detection', 'PROJETO_07 - Mineração de dados de Supermercado', 'PROJETO_08 - RL Taxi Q-Learning Agent', 'PROJETO_09 - Análise de Sentimentos de Reviews', 'datasets']
+2025-04-29 01:58:12,117 - INFO - Buscando último commit para ML-DL/PROJETO_01 - Customer Income
+2025-04-29 01:58:12,372 - INFO - Commit encontrado para ML-DL: 3206df3959e9bf724544da3e9cdd2770d4efe542
+2025-04-29 01:58:12,372 - INFO - Buscando descrição para ML-DL/PROJETO_01 - Customer Income
+2025-04-29 01:58:12,582 - WARNING - Nenhum README.md encontrado para ML-DL/PROJETO_01 - Customer Income
+2025-04-29 01:58:12,582 - INFO - Buscando último commit para ML-DL/PROJETO_02 - Credit Card Customers Clustering
+2025-04-29 01:58:12,793 - INFO - Commit encontrado para ML-DL: 3206df3959e9bf724544da3e9cdd2770d4efe542
+2025-04-29 01:58:12,793 - INFO - Buscando descrição para ML-DL/PROJETO_02 - Credit Card Customers Clustering
+2025-04-29 01:58:13,031 - INFO - Descrição (título) encontrada para ML-DL/PROJETO_02 - Credit Card Customers Clustering: Análise de Clusters de Clientes de Cartão de Crédito
+2025-04-29 01:58:13,031 - INFO - Buscando último commit para ML-DL/PROJETO_03 - Loan Default Prediction
+2025-04-29 01:58:13,300 - INFO - Commit encontrado para ML-DL: 2588db787018e85e0814eb259918b38f060232da
+2025-04-29 01:58:13,300 - INFO - Buscando descrição para ML-DL/PROJETO_03 - Loan Default Prediction
+2025-04-29 01:58:13,524 - INFO - Descrição (título) encontrada para ML-DL/PROJETO_03 - Loan Default Prediction: Projeto de Previsão de Inadimplência de Empréstimos
+2025-04-29 01:58:13,524 - INFO - Buscando último commit para ML-DL/PROJETO_04 - Analise de Experimento
+2025-04-29 01:58:13,757 - INFO - Commit encontrado para ML-DL: 3206df3959e9bf724544da3e9cdd2770d4efe542
+2025-04-29 01:58:13,757 - INFO - Buscando descrição para ML-DL/PROJETO_04 - Analise de Experimento
+2025-04-29 01:58:13,954 - INFO - Descrição (título) encontrada para ML-DL/PROJETO_04 - Analise de Experimento: Planejamento de Experimentos com Cupcakes
+2025-04-29 01:58:13,955 - INFO - Buscando último commit para ML-DL/PROJETO_05 - House Sales 
+2025-04-29 01:58:14,215 - INFO - Commit encontrado para ML-DL: 3206df3959e9bf724544da3e9cdd2770d4efe542
+2025-04-29 01:58:14,215 - INFO - Buscando descrição para ML-DL/PROJETO_05 - House Sales 
+2025-04-29 01:58:14,457 - INFO - Descrição (título) encontrada para ML-DL/PROJETO_05 - House Sales : Regressão de Preços de Casas (King County)
+2025-04-29 01:58:14,457 - INFO - Buscando último commit para ML-DL/PROJETO_06 - Credit Card Fraud Detection
+2025-04-29 01:58:14,682 - INFO - Commit encontrado para ML-DL: 3d7dd147bb87a6ad889a98e69208d6f1644f7419
+2025-04-29 01:58:14,683 - INFO - Buscando descrição para ML-DL/PROJETO_06 - Credit Card Fraud Detection
+2025-04-29 01:58:14,894 - INFO - Descrição (título) encontrada para ML-DL/PROJETO_06 - Credit Card Fraud Detection: Detecção de Fraudes em Cartões de Crédito
+2025-04-29 01:58:14,895 - INFO - Buscando último commit para ML-DL/PROJETO_07 - Mineração de dados de Supermercado
+2025-04-29 01:58:15,129 - INFO - Commit encontrado para ML-DL: 1ec26218c6461f7bc4c0568a5b54dd9fa77422ad
+2025-04-29 01:58:15,129 - INFO - Buscando descrição para ML-DL/PROJETO_07 - Mineração de dados de Supermercado
+2025-04-29 01:58:15,365 - INFO - Descrição (título) encontrada para ML-DL/PROJETO_07 - Mineração de dados de Supermercado: Análise de Cesta de Compras com Apriori
+2025-04-29 01:58:15,365 - INFO - Buscando último commit para ML-DL/PROJETO_08 - RL Taxi Q-Learning Agent
+2025-04-29 01:58:15,578 - INFO - Commit encontrado para ML-DL: 3074436748f3ec7a7f18661f72714c908c418e3c
+2025-04-29 01:58:15,578 - INFO - Buscando descrição para ML-DL/PROJETO_08 - RL Taxi Q-Learning Agent
+2025-04-29 01:58:15,791 - INFO - Descrição (título) encontrada para ML-DL/PROJETO_08 - RL Taxi Q-Learning Agent: Taxi Agent com Q-Learning no Ambiente Taxi-v3
+2025-04-29 01:58:15,792 - INFO - Buscando último commit para ML-DL/PROJETO_09 - Análise de Sentimentos de Reviews
+2025-04-29 01:58:16,002 - INFO - Commit encontrado para ML-DL: a8c673e6ffe052278222f2e2c81f7e5db42183de
+2025-04-29 01:58:16,002 - INFO - Buscando descrição para ML-DL/PROJETO_09 - Análise de Sentimentos de Reviews
+2025-04-29 01:58:16,205 - WARNING - Nenhum README.md encontrado para ML-DL/PROJETO_09 - Análise de Sentimentos de Reviews
+2025-04-29 01:58:16,205 - INFO - Buscando último commit para ML-DL/datasets
+2025-04-29 01:58:16,448 - INFO - Commit encontrado para ML-DL: 36ed6eb00d59b9fb8d9863109287f031fcff53ec
+2025-04-29 01:58:16,448 - INFO - Buscando descrição para ML-DL/datasets
+2025-04-29 01:58:16,659 - WARNING - Nenhum README.md encontrado para ML-DL/datasets
+2025-04-29 01:58:16,659 - INFO - Coletando projetos do monorepo estudos
+2025-04-29 01:58:16,918 - INFO - Projetos encontrados no monorepo estudos: ['ML-DL', 'R', 'SQL', 'analytics', 'html-css-js', 'logica', 'node', 'python', 'react', 'shell']
+2025-04-29 01:58:16,919 - INFO - Buscando último commit para estudos/ML-DL
+2025-04-29 01:58:17,204 - INFO - Commit encontrado para estudos: 50948f1c243974000f832ad71d09bbb59de288b2
+2025-04-29 01:58:17,205 - INFO - Buscando descrição para estudos/ML-DL
+2025-04-29 01:58:17,418 - WARNING - Nenhum README.md encontrado para estudos/ML-DL
+2025-04-29 01:58:17,418 - INFO - Buscando último commit para estudos/R
+2025-04-29 01:58:17,686 - INFO - Commit encontrado para estudos: 94ceedb4b4fbbf51e5c98a8a80cdb8f6297135e5
+2025-04-29 01:58:17,686 - INFO - Buscando descrição para estudos/R
+2025-04-29 01:58:17,894 - INFO - Descrição (título) encontrada para estudos/R: Atividade I
+2025-04-29 01:58:17,895 - INFO - Buscando último commit para estudos/SQL
+2025-04-29 01:58:18,114 - INFO - Commit encontrado para estudos: 5018655372962f03f0f91b0b0bf1e18fc1e1d256
+2025-04-29 01:58:18,114 - INFO - Buscando descrição para estudos/SQL
+2025-04-29 01:58:18,384 - WARNING - Nenhum README.md encontrado para estudos/SQL
+2025-04-29 01:58:18,384 - INFO - Buscando último commit para estudos/analytics
+2025-04-29 01:58:18,617 - INFO - Commit encontrado para estudos: 227dcc4f8e52c44f06ed604f623f21c84b194c2e
+2025-04-29 01:58:18,617 - INFO - Buscando descrição para estudos/analytics
+2025-04-29 01:58:18,838 - WARNING - Nenhum README.md encontrado para estudos/analytics
+2025-04-29 01:58:18,839 - INFO - Buscando último commit para estudos/html-css-js
+2025-04-29 01:58:19,039 - INFO - Commit encontrado para estudos: 19a0e858c7cc40d60c97ecde382d5ce640617570
+2025-04-29 01:58:19,040 - INFO - Buscando descrição para estudos/html-css-js
+2025-04-29 01:58:19,270 - INFO - Descrição (primeira linha) encontrada para estudos/html-css-js: ﻿# Web Development
+2025-04-29 01:58:19,270 - INFO - Buscando último commit para estudos/logica
+2025-04-29 01:58:19,478 - INFO - Commit encontrado para estudos: b1b028c7ea9d6a2224c96cba94e28d453405a05e
+2025-04-29 01:58:19,478 - INFO - Buscando descrição para estudos/logica
+2025-04-29 01:58:19,689 - INFO - Descrição (título) encontrada para estudos/logica: Lógica de Programação
+2025-04-29 01:58:19,689 - INFO - Buscando último commit para estudos/node
+2025-04-29 01:58:19,949 - INFO - Commit encontrado para estudos: 4e6a590747c6ad3c507be96cd2aa0b17e664d29c
+2025-04-29 01:58:19,949 - INFO - Buscando descrição para estudos/node
+2025-04-29 01:58:20,156 - WARNING - Nenhum README.md encontrado para estudos/node
+2025-04-29 01:58:20,157 - INFO - Buscando último commit para estudos/python
+2025-04-29 01:58:20,410 - INFO - Commit encontrado para estudos: 30ef7894aecb34cf973a375af1c243acd87225dc
+2025-04-29 01:58:20,411 - INFO - Buscando descrição para estudos/python
+2025-04-29 01:58:20,630 - INFO - Descrição (título) encontrada para estudos/python: Lista de Exercícios I
+2025-04-29 01:58:20,630 - INFO - Buscando último commit para estudos/react
+2025-04-29 01:58:20,847 - INFO - Commit encontrado para estudos: e9691c05502c20361e0f124aad8f581746d5920c
+2025-04-29 01:58:20,847 - INFO - Buscando descrição para estudos/react
+2025-04-29 01:58:21,073 - WARNING - Nenhum README.md encontrado para estudos/react
+2025-04-29 01:58:21,074 - INFO - Buscando último commit para estudos/shell
+2025-04-29 01:58:21,288 - INFO - Commit encontrado para estudos: f0a2b3d007d3f8ecc7587eb7cdeadaf7616708a2
+2025-04-29 01:58:21,288 - INFO - Buscando descrição para estudos/shell
+2025-04-29 01:58:21,474 - WARNING - Nenhum README.md encontrado para estudos/shell
+2025-04-29 01:58:21,474 - INFO - Total de atualizações coletadas: 5
+2025-04-29 01:58:21,504 - INFO - Conteúdo do README gerado com sucesso
+2025-04-29 01:58:21,505 - INFO - README salvo em README.md
