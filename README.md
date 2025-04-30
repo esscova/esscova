@@ -24,11 +24,11 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_09%20-%20An%C3%A1lise%20de%20Sentimentos%20de%20Reviews" target="_blank">ML-DL/PROJETO_09</a> (30/04/2025): Projeto no monorepo ML-DL
+<a href="https://github.com/esscova/esscova" target="_blank">esscova</a> (30/04/2025): Sem descrição
 </p>
 
 <p>
-<a href="https://github.com/esscova/esscova" target="_blank">esscova</a> (30/04/2025): Sem descrição
+<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_09%20-%20An%C3%A1lise%20de%20Sentimentos%20de%20Reviews" target="_blank">ML-DL/PROJETO_09</a> (30/04/2025): Projeto no monorepo ML-DL
 </p>
 
 <p>
