@@ -24,7 +24,7 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/esscova" target="_blank">esscova</a> (30/04/2025): Sem descrição
+<a href="https://github.com/esscova/testdrive" target="_blank">testdrive</a> (01/05/2025): Um espaço dedicado para explorar e experimentar diversas tecnologias em projetos práticos.
 </p>
 
 <p>
