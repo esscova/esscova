@@ -18,7 +18,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 USERNAME = "esscova"
-MONOREPO_NAMES = ["ML-DL", "estudos"]  
+MONOREPO_NAMES = ["ML-DL", "estudos", "testdrive"]  
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 MAX_UPDATES = 5  
 EXCLUDED_REPOS = ["esscova"]  
