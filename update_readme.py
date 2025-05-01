@@ -1,3 +1,4 @@
+# ---
 import requests
 import os
 import logging
@@ -5,7 +6,7 @@ import base64
 import urllib.parse
 from datetime import datetime, timedelta
 
-# Configuração de logs
+# --- configurações e constantes --- #
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
@@ -16,14 +17,12 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Configurações
 USERNAME = "esscova"
-MONOREPO_NAMES = ["ML-DL", "estudos"]  # Liste todos os seus monorepos aqui
+MONOREPO_NAMES = ["ML-DL", "estudos"]  
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+MAX_UPDATES = 5  
+EXCLUDED_REPOS = ["esscova"]  
 
-MAX_UPDATES = 5  # Número máximo de atualizações a exibir
-
-# Conteúdo fixo do README (excluindo a seção Updates)
 README_STATIC_CONTENT = """<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514418/3958/storm_trooper.gif?1643514418" width="30"/> Hey! Nice to see you.</h1>
 <p>Hi, I'm Wellington, Data Scientist & Engineer</p>
 
@@ -50,7 +49,7 @@ README_STATIC_CONTENT = """<h1><img src="https://emojis.slackmojis.com/emojis/im
 
 <h3>Last updates</h3>
 """
-
+# --- funções --- #
 def get_all_repos():
     logger.info("Coletando repositórios do usuário %s", USERNAME)
     repos = []
@@ -118,7 +117,7 @@ def get_project_description(repo_name, project_path):
     if "content" not in content:
         logger.warning("README.md vazio para %s/%s", repo_name, project_path)
         return f"Projeto no monorepo {repo_name}"
-
+    
     decoded_content = base64.b64decode(content["content"]).decode("utf-8")
     # Extrai a primeira linha não vazia, preferindo títulos (#)
     lines = [line.strip() for line in decoded_content.splitlines() if line.strip()]
@@ -138,10 +137,14 @@ def update_readme():
     repos = get_all_repos()
     updates = []
 
-    # Coleta atualizações de repositórios normais
+    # atualizações de repositórios normais, excluindo repositórios especificados
     for repo in repos:
         if repo["name"] in MONOREPO_NAMES:
-            continue  # Trata monorepos separadamente
+            logger.info("Ignorando monorepo %s", repo["name"])
+            continue
+        if repo["name"] in EXCLUDED_REPOS:
+            logger.info("Ignorando repositório excluído %s", repo["name"])
+            continue
         commit = get_latest_commit(repo["name"])
         if commit:
             updates.append({
@@ -154,7 +157,7 @@ def update_readme():
                 "repo_url": repo["html_url"]
             })
 
-    # Coleta atualizações de todos os monorepos
+    # atualizações de todos os monorepos
     for monorepo in MONOREPO_NAMES:
         monorepo_projects = get_monorepo_projects(monorepo)
         for project in monorepo_projects:
@@ -192,7 +195,7 @@ def update_readme():
             f"</p>\n\n"
         )
 
-    # Combina o conteúdo fixo com a seção de atualizações
+    # concatenar o conteúdo fixo com a seção de atualizações
     readme_content = f"{README_STATIC_CONTENT}{updates_content}---\n"
     logger.info("Conteúdo do README gerado com sucesso")
 
