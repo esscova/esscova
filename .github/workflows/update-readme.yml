@@ -2,20 +2,19 @@ name: Update Profile README
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Ajustado para o cron do seu primeiro exemplo, pode usar '0 0 * * *' se preferir
+    - cron: '0 0 * * *' 
   workflow_dispatch:
   push:
     branches:
-      - main # Ou master
+      - main 
     paths:
       - '.github/workflows/update_readme.yml'
       - 'update_readme.py'
       - 'requirements.txt'
 
 jobs:
-  build: # Renomeado para build como no seu primeiro exemplo, pode ser update-readme também
+  build: 
     runs-on: ubuntu-latest
-    # Adicione esta seção de permissões:
     permissions:
       contents: write # Permite que o job faça checkout e push
 
@@ -46,4 +45,4 @@ jobs:
           commit_user_email: 'github-actions[bot]@users.noreply.github.com'
           commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
           file_pattern: 'README.md update_readme.log'
-          # push_options: '--force' # Removido temporariamente para teste, pode não ser necessário
+          # push_options: '--force' # removido temporariamente para teste, pode não ser necessário
