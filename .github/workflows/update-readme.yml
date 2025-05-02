@@ -2,25 +2,20 @@ name: Update Profile README
 
 on:
   schedule:
-    - cron: '0 0 * * *' 
-  workflow_dispatch:
-  push:
-    branches:
-      - main 
-    paths:
-      - '.github/workflows/update_readme.yml'
-      - 'update_readme.py'
-      - 'requirements.txt'
+    - cron: '0 0 * * *' #  diariamente às 00:00 UTC | 21h BRT
+  workflow_dispatch: # execução manual
 
 jobs:
-  build: 
+  update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Permite que o job faça checkout e push
+      contents: write # Permite checkout e push
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Faz checkout do histórico completo para rebase
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -37,6 +32,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python update_readme.py
 
+      - name: Pull Latest Changes
+        run: |
+          git fetch origin
+          git pull --rebase origin main
+        continue-on-error: true # Ignora erros de rebase temporariamente
+
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
@@ -45,4 +46,3 @@ jobs:
           commit_user_email: 'github-actions[bot]@users.noreply.github.com'
           commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
           file_pattern: 'README.md update_readme.log'
-          # push_options: '--force' # removido temporariamente para teste, pode não ser necessário
