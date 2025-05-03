@@ -24,11 +24,11 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_09%20-%20An%C3%A1lise%20de%20Sentimentos%20de%20Reviews" target="_blank">ML-DL/PROJETO_09</a> (01/05/2025): Análise de Sentimentos - Cadeira Sensetup Cosy T03
+<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_09%20-%20An%C3%A1lise%20de%20Sentimentos%20de%20Reviews" target="_blank">ML-DL/PROJETO_09</a> (02/05/2025): Análise de Sentimentos em reviews da Cadeira Sensetup Cosy T03
 </p>
 
 <p>
-<a href="https://github.com/esscova/testdrive/tree/main/mongoDB" target="_blank">testdrive/mongoDB</a> (01/05/2025): MongoDB Study Environment
+<a href="https://github.com/esscova/testdrive/tree/main/mongoDB" target="_blank">testdrive/mongoDB</a> (02/05/2025): MongoDB Study Environment
 </p>
 
 <p>
