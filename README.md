@@ -24,7 +24,11 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/testdrive/tree/main/mongoDB" target="_blank">testdrive/mongoDB</a> (03/05/2025): MongoDB - Ambiente de Testes
+<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_10%20-%20Reconhecimento%20Facial" target="_blank">ML-DL/PROJETO_10</a> (06/05/2025): Mano Menezes x James Hetfield: OpenCV e Face Recognition em ação
+</p>
+
+<p>
+<a href="https://github.com/esscova/testdrive/tree/main/mongoDB" target="_blank">testdrive/mongoDB</a> (06/05/2025): MongoDB - Ambiente de Testes
 </p>
 
 <p>
@@ -37,10 +41,6 @@
 
 <p>
 <a href="https://github.com/esscova/github-language-analysis" target="_blank">github-language-analysis</a> (24/04/2025): Dashboard com trends e insights sobre as linguagens de programação utilizadas pelas big techs.
-</p>
-
-<p>
-<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_08%20-%20RL%20Taxi%20Q-Learning%20Agent" target="_blank">ML-DL/PROJETO_08</a> (22/04/2025): Taxi Agent com Q-Learning no Ambiente Taxi-v3
 </p>
 
 ---
