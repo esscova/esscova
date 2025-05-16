@@ -24,6 +24,10 @@
 
 <h3>Last updates</h3>
 <p>
+<a href="https://github.com/esscova/ecommerce-data-pipeline" target="_blank">ecommerce-data-pipeline</a> (15/05/2025): Este projeto foi desenvolvido como um exercício prático e peça de portfólio, demonstrando habilidades em engenharia de dados, Python, SQL, MongoDB, PostgreSQL, Docker e modelagem de dados.
+</p>
+
+<p>
 <a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_10%20-%20Reconhecimento%20Facial" target="_blank">ML-DL/PROJETO_10</a> (06/05/2025): Mano Menezes x James Hetfield: OpenCV e Face Recognition em ação
 </p>
 
@@ -37,10 +41,6 @@
 
 <p>
 <a href="https://github.com/esscova/mini-sales-datamart" target="_blank">mini-sales-datamart</a> (26/04/2025): Este projeto demonstra a criação de um Data Mart de Vendas simplificado utilizando Docker, PostgreSQL e SQL. Implementa conceitos essenciais de Engenharia de Dados como containerização via Docker, modelagem dimensional (Star Schema), processo ELT com SQL puro, e consultas analíticas para extrair insights de negócio.
-</p>
-
-<p>
-<a href="https://github.com/esscova/github-language-analysis" target="_blank">github-language-analysis</a> (24/04/2025): Dashboard com trends e insights sobre as linguagens de programação utilizadas pelas big techs.
 </p>
 
 ---
