@@ -24,6 +24,10 @@
 
 <h3>Last updates</h3>
 <p>
+<a href="https://github.com/esscova/testdrive/tree/main/airflow" target="_blank">testdrive/airflow</a> (17/05/2025): Introdução ao Apache Airflow**
+</p>
+
+<p>
 <a href="https://github.com/esscova/ecommerce-data-pipeline" target="_blank">ecommerce-data-pipeline</a> (15/05/2025): Este projeto foi desenvolvido como um exercício prático e peça de portfólio, demonstrando habilidades em engenharia de dados, Python, SQL, MongoDB, PostgreSQL, Docker e modelagem de dados.
 </p>
 
@@ -37,10 +41,6 @@
 
 <p>
 <a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_09%20-%20An%C3%A1lise%20de%20Sentimentos%20de%20Reviews" target="_blank">ML-DL/PROJETO_09</a> (02/05/2025): Análise de Sentimentos em reviews da Cadeira Sensetup Cosy T03
-</p>
-
-<p>
-<a href="https://github.com/esscova/mini-sales-datamart" target="_blank">mini-sales-datamart</a> (26/04/2025): Este projeto demonstra a criação de um Data Mart de Vendas simplificado utilizando Docker, PostgreSQL e SQL. Implementa conceitos essenciais de Engenharia de Dados como containerização via Docker, modelagem dimensional (Star Schema), processo ELT com SQL puro, e consultas analíticas para extrair insights de negócio.
 </p>
 
 ---
