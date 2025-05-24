@@ -24,6 +24,10 @@
 
 <h3>Last updates</h3>
 <p>
+<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_11%20-%20Breast%20cancer%20with%20deep%20learning" target="_blank">ML-DL/PROJETO_11</a> (23/05/2025): Projeto no monorepo ML-DL
+</p>
+
+<p>
 <a href="https://github.com/esscova/testdrive/tree/main/airflow" target="_blank">testdrive/airflow</a> (17/05/2025): Introdução ao Apache Airflow**
 </p>
 
@@ -37,10 +41,6 @@
 
 <p>
 <a href="https://github.com/esscova/testdrive/tree/main/mongoDB" target="_blank">testdrive/mongoDB</a> (06/05/2025): MongoDB - Ambiente de Testes
-</p>
-
-<p>
-<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_09%20-%20An%C3%A1lise%20de%20Sentimentos%20de%20Reviews" target="_blank">ML-DL/PROJETO_09</a> (02/05/2025): Análise de Sentimentos em reviews da Cadeira Sensetup Cosy T03
 </p>
 
 ---
