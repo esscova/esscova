@@ -24,7 +24,7 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/testdrive/tree/main/airflow" target="_blank">testdrive/airflow</a> (25/05/2025): Introdução ao Apache Airflow
+<a href="https://github.com/esscova/testdrive/tree/main/airflow" target="_blank">testdrive/airflow</a> (28/05/2025): Introdução ao Apache Airflow
 </p>
 
 <p>
