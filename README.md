@@ -24,11 +24,11 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/testdrive/tree/main/airflow" target="_blank">testdrive/airflow</a> (28/05/2025): Introdução ao Apache Airflow
+<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_11%20-%20Breast%20cancer%20with%20deep%20learning" target="_blank">ML-DL/PROJETO_11</a> (29/05/2025): Classificação de Câncer de Mama com Deep Learning
 </p>
 
 <p>
-<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_11%20-%20Breast%20cancer%20with%20deep%20learning" target="_blank">ML-DL/PROJETO_11</a> (23/05/2025): Projeto no monorepo ML-DL
+<a href="https://github.com/esscova/testdrive/tree/main/airflow" target="_blank">testdrive/airflow</a> (28/05/2025): Introdução ao Apache Airflow
 </p>
 
 <p>
