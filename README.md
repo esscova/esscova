@@ -24,6 +24,10 @@
 
 <h3>Last updates</h3>
 <p>
+<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_12%20-%20Classifica%C3%A7%C3%A3o%20de%20Multiclasses%20com%20TensorFlow" target="_blank">ML-DL/PROJETO_12</a> (04/06/2025): Projeto 12 — Classificação Multiclasse com TensorFlow (Iris)
+</p>
+
+<p>
 <a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_11%20-%20Breast%20cancer%20with%20deep%20learning" target="_blank">ML-DL/PROJETO_11</a> (29/05/2025): Classificação de Câncer de Mama com Deep Learning
 </p>
 
@@ -37,10 +41,6 @@
 
 <p>
 <a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_10%20-%20Reconhecimento%20Facial" target="_blank">ML-DL/PROJETO_10</a> (06/05/2025): Mano Menezes x James Hetfield: OpenCV e Face Recognition em ação
-</p>
-
-<p>
-<a href="https://github.com/esscova/testdrive/tree/main/mongoDB" target="_blank">testdrive/mongoDB</a> (06/05/2025): MongoDB - Ambiente de Testes
 </p>
 
 ---
