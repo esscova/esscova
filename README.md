@@ -24,7 +24,15 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_12%20-%20Classifica%C3%A7%C3%A3o%20de%20Multiclasses%20com%20TensorFlow" target="_blank">ML-DL/PROJETO_12</a> (04/06/2025): Projeto 12 — Classificação Multiclasse com TensorFlow (Iris)
+<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_13%20-%20Classifica%C3%A7%C3%A3o%20Multiclasse%20de%20Imagens%20com%20TensorFlow%20%28MNIST%29" target="_blank">ML-DL/PROJETO_13</a> (06/06/2025): Classificador Multiclasse de Imagens com Deep Learning (Fashion MNIST)
+</p>
+
+<p>
+<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_12%20-%20Classifica%C3%A7%C3%A3o%20de%20Multiclasses%20com%20TensorFlow" target="_blank">ML-DL/PROJETO_12</a> (06/06/2025): Classificação Multiclasse com TensorFlow (Iris)
+</p>
+
+<p>
+<a href="https://github.com/esscova/product-analytics-pipeline" target="_blank">product-analytics-pipeline</a> (06/06/2025): Projeto completo de engenharia de dados com pipeline ETL para análise de vendas de produtos, usando Apache Airflow e Docker. A arquitetura segue o padrão Medallion e adota boas práticas de infraestrutura como código.
 </p>
 
 <p>
@@ -33,14 +41,6 @@
 
 <p>
 <a href="https://github.com/esscova/testdrive/tree/main/airflow" target="_blank">testdrive/airflow</a> (28/05/2025): Introdução ao Apache Airflow
-</p>
-
-<p>
-<a href="https://github.com/esscova/ecommerce-data-pipeline" target="_blank">ecommerce-data-pipeline</a> (15/05/2025): Este projeto foi desenvolvido como um exercício prático e peça de portfólio, demonstrando habilidades em engenharia de dados, Python, SQL, MongoDB, PostgreSQL, Docker e modelagem de dados.
-</p>
-
-<p>
-<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_10%20-%20Reconhecimento%20Facial" target="_blank">ML-DL/PROJETO_10</a> (06/05/2025): Mano Menezes x James Hetfield: OpenCV e Face Recognition em ação
 </p>
 
 ---
