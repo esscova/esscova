@@ -24,23 +24,23 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_13%20-%20Classifica%C3%A7%C3%A3o%20Multiclasse%20de%20Imagens%20com%20TensorFlow%20%28MNIST%29" target="_blank">ML-DL/PROJETO_13</a> (06/06/2025): Classificador Multiclasse de Imagens com Deep Learning (Fashion MNIST)
+<a href="https://github.com/esscova/ML-DL/tree/main/14%20-%20TensorFlow%20e%20Keras%20vs%20Modelos%20Cl%C3%A1ssicos%3A%20Um%20problema%20de%20Regress%C3%A3o" target="_blank">ML-DL/14</a> (12/06/2025): TensorFlow e Keras vs. Modelos Clássicos: Um Problema de Regressão
 </p>
 
 <p>
-<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_12%20-%20Classifica%C3%A7%C3%A3o%20de%20Multiclasses%20com%20TensorFlow" target="_blank">ML-DL/PROJETO_12</a> (06/06/2025): Classificação Multiclasse com TensorFlow (Iris)
+<a href="https://github.com/esscova/ML-DL/tree/main/01%20-%20Customer%20Income" target="_blank">ML-DL/01</a> (12/06/2025): Projeto no monorepo ML-DL
 </p>
 
 <p>
-<a href="https://github.com/esscova/product-analytics-pipeline" target="_blank">product-analytics-pipeline</a> (06/06/2025): Projeto completo de engenharia de dados com pipeline ETL para análise de vendas de produtos, usando Apache Airflow e Docker. A arquitetura segue o padrão Medallion e adota boas práticas de infraestrutura como código.
+<a href="https://github.com/esscova/ML-DL/tree/main/02%20-%20Credit%20Card%20Customers%20Clustering" target="_blank">ML-DL/02</a> (12/06/2025): Análise de Clusters de Clientes de Cartão de Crédito
 </p>
 
 <p>
-<a href="https://github.com/esscova/ML-DL/tree/main/PROJETO_11%20-%20Breast%20cancer%20with%20deep%20learning" target="_blank">ML-DL/PROJETO_11</a> (29/05/2025): Classificação de Câncer de Mama com Deep Learning
+<a href="https://github.com/esscova/ML-DL/tree/main/03%20-%20Loan%20Default%20Prediction" target="_blank">ML-DL/03</a> (12/06/2025): Projeto de Previsão de Inadimplência de Empréstimos
 </p>
 
 <p>
-<a href="https://github.com/esscova/testdrive/tree/main/airflow" target="_blank">testdrive/airflow</a> (28/05/2025): Introdução ao Apache Airflow
+<a href="https://github.com/esscova/ML-DL/tree/main/04%20-%20Analise%20de%20Experimento" target="_blank">ML-DL/04</a> (12/06/2025): Planejamento de Experimentos com Cupcakes
 </p>
 
 ---
