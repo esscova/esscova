@@ -24,6 +24,10 @@
 
 <h3>Last updates</h3>
 <p>
+<a href="https://github.com/esscova/ML-DL/tree/main/15%20-%20Classificando%20imagens%20com%20CNN%20e%20TL%20no%20TensorFlow" target="_blank">ML-DL/15</a> (15/06/2025): **Classificação de Imagens: Uma Análise Comparativa entre CNNs e Transfer Learning**
+</p>
+
+<p>
 <a href="https://github.com/esscova/ML-DL/tree/main/14%20-%20TensorFlow%20e%20Keras%20vs%20Modelos%20Cl%C3%A1ssicos%3A%20Um%20problema%20de%20Regress%C3%A3o" target="_blank">ML-DL/14</a> (12/06/2025): TensorFlow e Keras vs. Modelos Clássicos: Um Problema de Regressão
 </p>
 
@@ -37,10 +41,6 @@
 
 <p>
 <a href="https://github.com/esscova/ML-DL/tree/main/03%20-%20Loan%20Default%20Prediction" target="_blank">ML-DL/03</a> (12/06/2025): Projeto de Previsão de Inadimplência de Empréstimos
-</p>
-
-<p>
-<a href="https://github.com/esscova/ML-DL/tree/main/04%20-%20Analise%20de%20Experimento" target="_blank">ML-DL/04</a> (12/06/2025): Planejamento de Experimentos com Cupcakes
 </p>
 
 ---
