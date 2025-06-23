@@ -24,7 +24,15 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/ML-DL/tree/main/15%20-%20Classificando%20imagens%20com%20CNN%20e%20TL%20no%20TensorFlow" target="_blank">ML-DL/15</a> (15/06/2025): **Classificação de Imagens: Uma Análise Comparativa entre CNNs e Transfer Learning**
+<a href="https://github.com/esscova/data-analysis" target="_blank">data-analysis</a> (22/06/2025): Este repositório aplica os ensinamentos da análise de dados para transformar dados brutos em insights estratégicos. 
+</p>
+
+<p>
+<a href="https://github.com/esscova/quero-cafe" target="_blank">quero-cafe</a> (22/06/2025): Repo pessoal de estudos.. anotações, códigos, mini projetos, experimentos... 
+</p>
+
+<p>
+<a href="https://github.com/esscova/ML-DL/tree/main/15%20-%20Classificando%20imagens%20com%20CNN%20e%20TL%20no%20TensorFlow" target="_blank">ML-DL/15</a> (21/06/2025): Classificação de Imagens: Uma Análise Comparativa entre CNNs e Transfer Learning
 </p>
 
 <p>
@@ -33,14 +41,6 @@
 
 <p>
 <a href="https://github.com/esscova/ML-DL/tree/main/01%20-%20Customer%20Income" target="_blank">ML-DL/01</a> (12/06/2025): Projeto no monorepo ML-DL
-</p>
-
-<p>
-<a href="https://github.com/esscova/ML-DL/tree/main/02%20-%20Credit%20Card%20Customers%20Clustering" target="_blank">ML-DL/02</a> (12/06/2025): Análise de Clusters de Clientes de Cartão de Crédito
-</p>
-
-<p>
-<a href="https://github.com/esscova/ML-DL/tree/main/03%20-%20Loan%20Default%20Prediction" target="_blank">ML-DL/03</a> (12/06/2025): Projeto de Previsão de Inadimplência de Empréstimos
 </p>
 
 ---
