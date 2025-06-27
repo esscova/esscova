@@ -24,7 +24,7 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/data-analysis" target="_blank">data-analysis</a> (22/06/2025): Este repositório aplica os ensinamentos da análise de dados para transformar dados brutos em insights estratégicos. 
+<a href="https://github.com/esscova/data-analysis" target="_blank">data-analysis</a> (26/06/2025): Este repositório aplica os ensinamentos da análise de dados para transformar dados brutos em insights estratégicos. 
 </p>
 
 <p>
