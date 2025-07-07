@@ -24,11 +24,15 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/data-analysis" target="_blank">data-analysis</a> (29/06/2025): Este repositório aplica os ensinamentos da análise de dados para transformar dados brutos em insights estratégicos. 
+<a href="https://github.com/esscova/rock-django" target="_blank">rock-django</a> (06/07/2025): Rock Django é um projeto web desenvolvido com o framework Django, projetado para gerenciar os melhores vocalistas =] esse repositório é meu hello world com django.
 </p>
 
 <p>
-<a href="https://github.com/esscova/quero-cafe" target="_blank">quero-cafe</a> (28/06/2025): Repo pessoal de estudos.. anotações, códigos, mini projetos, experimentos... 
+<a href="https://github.com/esscova/quero-cafe" target="_blank">quero-cafe</a> (04/07/2025): Repo pessoal de estudos.. anotações, códigos, mini projetos, experimentos... 
+</p>
+
+<p>
+<a href="https://github.com/esscova/data-analysis" target="_blank">data-analysis</a> (29/06/2025): Este repositório aplica os ensinamentos da análise de dados para transformar dados brutos em insights estratégicos. 
 </p>
 
 <p>
@@ -37,10 +41,6 @@
 
 <p>
 <a href="https://github.com/esscova/ML-DL/tree/main/14%20-%20TensorFlow%20e%20Keras%20vs%20Modelos%20Cl%C3%A1ssicos%3A%20Um%20problema%20de%20Regress%C3%A3o" target="_blank">ML-DL/14</a> (12/06/2025): TensorFlow e Keras vs. Modelos Clássicos: Um Problema de Regressão
-</p>
-
-<p>
-<a href="https://github.com/esscova/ML-DL/tree/main/01%20-%20Customer%20Income" target="_blank">ML-DL/01</a> (12/06/2025): Projeto no monorepo ML-DL
 </p>
 
 ---
