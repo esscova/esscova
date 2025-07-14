@@ -24,11 +24,11 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/rock-django" target="_blank">rock-django</a> (06/07/2025): Rock Django é um projeto web desenvolvido com o framework Django, projetado para gerenciar os melhores vocalistas =] esse repositório é meu hello world com django.
+<a href="https://github.com/esscova/quero-cafe" target="_blank">quero-cafe</a> (11/07/2025): Repo pessoal de estudos.. anotações, códigos, mini projetos, experimentos... 
 </p>
 
 <p>
-<a href="https://github.com/esscova/quero-cafe" target="_blank">quero-cafe</a> (04/07/2025): Repo pessoal de estudos.. anotações, códigos, mini projetos, experimentos... 
+<a href="https://github.com/esscova/rock-django" target="_blank">rock-django</a> (06/07/2025): Rock Django é um projeto web desenvolvido com o framework Django, projetado para gerenciar os melhores vocalistas =] esse repositório é meu hello world com django.
 </p>
 
 <p>
