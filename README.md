@@ -24,7 +24,7 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/quero-cafe" target="_blank">quero-cafe</a> (11/07/2025): Repo pessoal de estudos.. anotações, códigos, mini projetos, experimentos... 
+<a href="https://github.com/esscova/trivium" target="_blank">trivium</a> (11/07/2025): Repo pessoal de estudos.. anotações, códigos, mini projetos, experimentos... 
 </p>
 
 <p>
