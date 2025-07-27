@@ -24,15 +24,15 @@
 
 <h3>Last updates</h3>
 <p>
+<a href="https://github.com/esscova/data_analytics" target="_blank">data_analytics</a> (26/07/2025): Este repositório aplica os ensinamentos da análise de dados para transformar dados brutos em insights estratégicos. 
+</p>
+
+<p>
 <a href="https://github.com/esscova/trivium" target="_blank">trivium</a> (19/07/2025): Repo pessoal de estudos.. anotações, códigos, mini projetos, experimentos... 
 </p>
 
 <p>
 <a href="https://github.com/esscova/rock-django" target="_blank">rock-django</a> (06/07/2025): Rock Django é um projeto web desenvolvido com o framework Django, projetado para gerenciar os melhores vocalistas =] esse repositório é meu hello world com django.
-</p>
-
-<p>
-<a href="https://github.com/esscova/data_analytics" target="_blank">data_analytics</a> (29/06/2025): Este repositório aplica os ensinamentos da análise de dados para transformar dados brutos em insights estratégicos. 
 </p>
 
 <p>
