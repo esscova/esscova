@@ -24,11 +24,11 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/data_analytics" target="_blank">data_analytics</a> (24/08/2025): Este repositório aplica os ensinamentos da análise de dados para transformar dados brutos em insights estratégicos. 
+<a href="https://github.com/esscova/study-repo" target="_blank">study-repo</a> (28/08/2025): Este repositório é um espaço pessoal de registro e organização dos meus constantes estudos em tecnologia e dados.
 </p>
 
 <p>
-<a href="https://github.com/esscova/study-repo" target="_blank">study-repo</a> (24/08/2025): Este repositório é um espaço pessoal de registro e organização dos meus constantes estudos em tecnologia e dados.
+<a href="https://github.com/esscova/data_analytics" target="_blank">data_analytics</a> (24/08/2025): Este repositório aplica os ensinamentos da análise de dados para transformar dados brutos em insights estratégicos. 
 </p>
 
 <p>
