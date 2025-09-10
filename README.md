@@ -24,7 +24,7 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/study-repo" target="_blank">study-repo</a> (09/09/2025): Este repositório é um espaço pessoal de registro e organização dos meus constantes estudos em tecnologia e dados.
+<a href="https://github.com/esscova/study-repo" target="_blank">study-repo</a> (10/09/2025): Este repositório é um espaço pessoal de registro e organização dos meus constantes estudos em tecnologia e dados.
 </p>
 
 <p>
