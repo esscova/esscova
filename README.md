@@ -24,6 +24,10 @@
 
 <h3>Last updates</h3>
 <p>
+<a href="https://github.com/esscova/TubeTalk" target="_blank">TubeTalk</a> (19/10/2025): Sem descrição
+</p>
+
+<p>
 <a href="https://github.com/esscova/study-repo" target="_blank">study-repo</a> (18/09/2025): Este repositório é um espaço pessoal de registro e organização dos meus constantes estudos em tecnologia e dados.
 </p>
 
@@ -37,10 +41,6 @@
 
 <p>
 <a href="https://github.com/esscova/ML-DL/tree/main/15%20-%20Classificando%20imagens%20com%20CNN%20e%20TL%20no%20TensorFlow" target="_blank">ML-DL/15</a> (21/06/2025): Classificação de Imagens: Uma Análise Comparativa entre CNNs e Transfer Learning
-</p>
-
-<p>
-<a href="https://github.com/esscova/ML-DL/tree/main/14%20-%20TensorFlow%20e%20Keras%20vs%20Modelos%20Cl%C3%A1ssicos%3A%20Um%20problema%20de%20Regress%C3%A3o" target="_blank">ML-DL/14</a> (12/06/2025): TensorFlow e Keras vs. Modelos Clássicos: Um Problema de Regressão
 </p>
 
 ---
