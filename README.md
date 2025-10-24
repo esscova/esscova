@@ -24,7 +24,7 @@
 
 <h3>Last updates</h3>
 <p>
-<a href="https://github.com/esscova/TubeTalk" target="_blank">TubeTalk</a> (19/10/2025): Sem descrição
+<a href="https://github.com/esscova/TubeTalk" target="_blank">TubeTalk</a> (24/10/2025): Assistente pessoal do YouTube com IA. O TubeTalk ajuda você a analisar vídeos do YouTube extraindo insights, gerando resumos e possibilitando conversas interativas sobre o conteúdo.
 </p>
 
 <p>
