@@ -24,6 +24,10 @@
 
 <h3>Last updates</h3>
 <p>
+<a href="https://github.com/esscova/trendMA" target="_blank">trendMA</a> (08/11/2025): Uma ferramenta de análise técnica para identificar tendências de mercado e cruzamentos de médias móveis em ativos da B3 - eventos de Golden Cross (potencial alta) e Death Cross (potencial baixa) no gráfico.
+</p>
+
+<p>
 <a href="https://github.com/esscova/TubeTalk" target="_blank">TubeTalk</a> (24/10/2025): Assistente pessoal do YouTube com IA. O TubeTalk ajuda você a analisar vídeos do YouTube extraindo insights, gerando resumos e possibilitando conversas interativas sobre o conteúdo.
 </p>
 
@@ -37,10 +41,6 @@
 
 <p>
 <a href="https://github.com/esscova/rock-django" target="_blank">rock-django</a> (06/07/2025): Rock Django é um projeto web desenvolvido com o framework Django, projetado para gerenciar os melhores vocalistas =] esse repositório é meu hello world com django.
-</p>
-
-<p>
-<a href="https://github.com/esscova/ML-DL/tree/main/15%20-%20Classificando%20imagens%20com%20CNN%20e%20TL%20no%20TensorFlow" target="_blank">ML-DL/15</a> (21/06/2025): Classificação de Imagens: Uma Análise Comparativa entre CNNs e Transfer Learning
 </p>
 
 ---
