@@ -7,6 +7,9 @@ Curso Bacharelado em Ciências Contábeis, unindo visão técnica à análise fi
 - Stack: Python, SQL, R, LangChain, LLMs, RAG, Scikit-Learn, TensorFlow, Airflow, Docker, PostgreSQL, MongoDB, FastAPI, Streamlit
 - Áreas: IA Generativa, Machine Learning, Engenharia de Dados, Analytics, Finanças
 
+| <a href="mailto:wsantos08@hotmail.com">E-mail</a> | <a href="https://www.linkedin.com/in/wellington-moreira-santos/" target="_blank">LinkedIn</a> | <a href="https://substack.com/@wellingtonmsantos" target="_blank">Substack</a> | <a href="https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm?usp=drive_link" target="_blank">Certificados</a> |
+| - | - | - | - |
+
 ## Projetos
 
 | Projeto | Descrição | Tecnologias |
@@ -32,6 +35,6 @@ Curso Bacharelado em Ciências Contábeis, unindo visão técnica à análise fi
 | [QLearning TradingBot](https://github.com/esscova/qlearning-acoes) | Robô de trading com aprendizado por reforço para decisões automáticas de compra e venda. | `Python` `Pandas` `Plotly` `yfinance` |
 | [SVM-R](https://github.com/esscova/svm-R) | Classificação com SVM nos datasets Iris e Wine usando R e Docker. | `R` `e1071` `Caret` `ggplot2` `Docker` |
 
-| <a href="mailto:wsantos08@hotmail.com">E-mail</a> | <a href="https://www.linkedin.com/in/wellingtonmoreira-santos/" target="_blank">LinkedIn</a> | <a href="https://substack.com/@wellingtonmsantos" target="_blank">Substack</a> | <a href="https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm?usp=drive_link" target="_blank">Certificados</a> |
+| <a href="mailto:wsantos08@hotmail.com">E-mail</a> | <a href="https://www.linkedin.com/in/wellington-moreira-santos/" target="_blank">LinkedIn</a> | <a href="https://substack.com/@wellingtonmsantos" target="_blank">Substack</a> | <a href="https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm?usp=drive_link" target="_blank">Certificados</a> |
 | - | - | - | - |
 
