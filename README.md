@@ -9,7 +9,7 @@ Curso Bacharelado em Ciências Contábeis, unindo visão técnica à análise fi
 
 | <a href="mailto:wsantos08@hotmail.com">E-mail</a> | <a href="https://www.linkedin.com/in/wellington-moreira-santos/" target="_blank">LinkedIn</a> | <a href="https://substack.com/@wellingtonmsantos" target="_blank">Substack</a> | <a href="https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm?usp=drive_link" target="_blank">Certificados</a> |
 | - | - | - | - |
-
+<!--
 ## Projetos
 
 | Projeto | Descrição | Tecnologias |
@@ -37,4 +37,4 @@ Curso Bacharelado em Ciências Contábeis, unindo visão técnica à análise fi
 
 | <a href="mailto:wsantos08@hotmail.com">E-mail</a> | <a href="https://www.linkedin.com/in/wellington-moreira-santos/" target="_blank">LinkedIn</a> | <a href="https://substack.com/@wellingtonmsantos" target="_blank">Substack</a> | <a href="https://drive.google.com/drive/folders/1wT1GYNCQanGvzCATBB14I7zMopy7Cbrm?usp=drive_link" target="_blank">Certificados</a> |
 | - | - | - | - |
-
+--/>
